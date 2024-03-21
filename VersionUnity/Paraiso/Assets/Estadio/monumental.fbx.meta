@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: 48a0a0647896a0448a31bf875e9e8df8
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00000-texture
+    second: {fileID: 2800000, guid: bab970bffd5adbc428b0c2925dbea544, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00001-texture
+    second: {fileID: 2800000, guid: d1716de4c23620e48bdbfe7c05727dbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00002-texture
+    second: {fileID: 2800000, guid: 6b71d90a968a28a43849e01a26fb87ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00003-texture
+    second: {fileID: 2800000, guid: b1e48b0c6fbccd34082c08e972100a3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00004-texture
+    second: {fileID: 2800000, guid: 7c1ba4788c4172a4392316487bd5515d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00005-texture
+    second: {fileID: 2800000, guid: bc8bb0a8d5f46bf40a7dc4d8ffdbc450, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00009-texture
+    second: {fileID: 2800000, guid: 116cb1b7c7e6ff04ea1de2b576971c5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00010-texture
+    second: {fileID: 2800000, guid: 7d658a26c9dc1c543a074ea81f8ec092, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00011-texture
+    second: {fileID: 2800000, guid: 02f38b2f8350f7b469413d7b6d82a387, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00015-texture
+    second: {fileID: 2800000, guid: c2ed28895bc239f40962b374ec4b7986, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00016-texture
+    second: {fileID: 2800000, guid: ffb2f9a7b6283c84386aa7e779b25a45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00017-texture
+    second: {fileID: 2800000, guid: f63d53e02d506ce439edf4318f448bc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00018-texture
+    second: {fileID: 2800000, guid: 8f3562a8448ce734bbd85765a0760668, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00019-texture
+    second: {fileID: 2800000, guid: 74f64dca4fb971b41925a6900d591e15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00020-texture
+    second: {fileID: 2800000, guid: 86813a2bfc7920d42b59eb728052e0b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00023-texture
+    second: {fileID: 2800000, guid: cbad85eec3428d944a2e43dab07079b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00024-texture
+    second: {fileID: 2800000, guid: 98fcaf4eee6c9a84f8eea69a021d00ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00028-texture
+    second: {fileID: 2800000, guid: c8c6657d9fbfb444f9c97230eae91f7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00029-texture
+    second: {fileID: 2800000, guid: b0d8507e14770b5419a812e04616b3b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00030-texture
+    second: {fileID: 2800000, guid: cb2b7ba363cb210489c01f05b2f5d4fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00031-texture
+    second: {fileID: 2800000, guid: e86bc8b572c2c074db72a44813566c5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00032-texture
+    second: {fileID: 2800000, guid: 96ed811f72d7af141b266ce401dd0bec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00033-texture
+    second: {fileID: 2800000, guid: 18bed0492778a354b843e6188919bac6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00034-texture
+    second: {fileID: 2800000, guid: d082a17e1f67ad94e9cab501ad9753c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00037-texture
+    second: {fileID: 2800000, guid: e5b493c8541ac2640a0e6fb4c258cf39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00038-texture
+    second: {fileID: 2800000, guid: 7cc33365fdf038249b1dc28339925787, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00039-texture
+    second: {fileID: 2800000, guid: 589651004e4895b49adbf6c47396f31d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00040-texture
+    second: {fileID: 2800000, guid: 99ea9d8cf149507419b3f07b4c531c30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00041-texture
+    second: {fileID: 2800000, guid: 7ce836181cdf4c947ad41f0d50f1cd1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00044-texture
+    second: {fileID: 2800000, guid: f096ddc643489ce4381bdd86934f0837, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00047-texture
+    second: {fileID: 2800000, guid: c5243e381f924ef4bad6b30fcd701044, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00048-texture
+    second: {fileID: 2800000, guid: 7a860e9b41c9b054a875e2a86e15d485, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00049-texture
+    second: {fileID: 2800000, guid: 066339d8af6289c40a8b3a0afc19f606, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00050-texture
+    second: {fileID: 2800000, guid: 5bde6628a6980014e95410392a92ad4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00051-texture
+    second: {fileID: 2800000, guid: 1a775019736ab5347a71b36ffbbed986, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00052-texture
+    second: {fileID: 2800000, guid: f930dae3017574e4780a4d5fda4f10b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00054-texture
+    second: {fileID: 2800000, guid: 803ca46125b18ec4d939feee2370eb75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00055-texture
+    second: {fileID: 2800000, guid: 36dbf85e6e155a44d9d395b29bf6465d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00058-texture
+    second: {fileID: 2800000, guid: e4cb75fb552ff854088cda59ef0734eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00059-texture
+    second: {fileID: 2800000, guid: ff25828119e4eaf41964035e826386a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00060-texture
+    second: {fileID: 2800000, guid: 2e72c31324bc1c04da4c39806f1269fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00061-texture
+    second: {fileID: 2800000, guid: 82737c40ed32acf4e98aeedeb5e7167a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00062-texture
+    second: {fileID: 2800000, guid: 806048921f871a648b67b339fd80185d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00063-texture
+    second: {fileID: 2800000, guid: 554ff5219e3a7b046bbfff44600177c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00066-texture
+    second: {fileID: 2800000, guid: 1324c3d3948310a4880cfba9f6af81fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00067-texture
+    second: {fileID: 2800000, guid: eb1d340c0535f36408625fc26973626f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00068-texture
+    second: {fileID: 2800000, guid: 4c0687be61ac76b479dfade76f1c51a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00069-texture
+    second: {fileID: 2800000, guid: 61be9f4ca24ae614d82da978929c46c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00070-texture
+    second: {fileID: 2800000, guid: 4361b25927fcf404ab891283ab982242, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00071-texture
+    second: {fileID: 2800000, guid: 4f6af86892ca1e34e8ea858e470f6c4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00072-texture
+    second: {fileID: 2800000, guid: 1ef4acdbc9da43a48b9fbed12b334a98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00074-texture
+    second: {fileID: 2800000, guid: d491938aa7fb7bb488d1c13f3edd5695, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00076-texture
+    second: {fileID: 2800000, guid: bf6f8d643d6d2654b92467880822d531, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00077-texture
+    second: {fileID: 2800000, guid: 392ea2f1bc049e5498232214795b98c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00078-texture
+    second: {fileID: 2800000, guid: 4d061d108651110449557beffba16a3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00079-texture
+    second: {fileID: 2800000, guid: 2b14b15f141f47240a5e81b34f52b3ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00080-texture
+    second: {fileID: 2800000, guid: 93e045afbf2847f489671aeafad9b38b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00081-texture
+    second: {fileID: 2800000, guid: 527d9f7a67e55f040bd075a218d10f54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00082-texture
+    second: {fileID: 2800000, guid: a98e19f3b0e000242ad29faf7a860421, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00083-texture
+    second: {fileID: 2800000, guid: 29ce4c977266f75408536d68884e523d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00084-texture
+    second: {fileID: 2800000, guid: 77dc1ad4ecd60444f9da3e220b3997b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00085-texture
+    second: {fileID: 2800000, guid: af7822791e8162d44bf05b348650c0db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00086-texture
+    second: {fileID: 2800000, guid: d9c633ab11079d942848bf42d89325b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00087-texture
+    second: {fileID: 2800000, guid: 58cc7b0fe5e123e4480b27712a0e60d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00089-texture
+    second: {fileID: 2800000, guid: debb9ad2e7c19524baeee1f11da71e9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00090-texture
+    second: {fileID: 2800000, guid: faeace1cf2bdc8b41a61ad45fb3ee4af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00091-texture
+    second: {fileID: 2800000, guid: ef3186701b87973408fc19abb27990b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00092-texture
+    second: {fileID: 2800000, guid: 1600c095c1a53e746885701b56209e1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00093-texture
+    second: {fileID: 2800000, guid: efe58ef75bf603949bfb32c1faed4009, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00094-texture
+    second: {fileID: 2800000, guid: 5f2ccfac37337a9419403786d874dd81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00095-texture
+    second: {fileID: 2800000, guid: 68fc038996bf850499e0f807d10b7b25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00096-texture
+    second: {fileID: 2800000, guid: 5fe8af8e31e91c44a96ad56f0edd7884, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00097-texture
+    second: {fileID: 2800000, guid: c205f3d303c546147af5f0ddfd0d0d60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00098-texture
+    second: {fileID: 2800000, guid: 50c7fdda8cfbb15409e97198fc2aadb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00099-texture
+    second: {fileID: 2800000, guid: c2de01bce6c72294eb3273eab22dd077, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00100-texture
+    second: {fileID: 2800000, guid: 9ee60cf713a048448bfdec250a7c1251, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00101-texture
+    second: {fileID: 2800000, guid: 32700a2b880bd034c935e16d921711b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00102-texture
+    second: {fileID: 2800000, guid: 95c7b588c3eb5cd49819648b806abaae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00103-texture
+    second: {fileID: 2800000, guid: 0a5bf04b2c39d8e49966c0a7c929cca7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00104-texture
+    second: {fileID: 2800000, guid: 02750c3852d0b8e40acb3d108c7b36b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00106-texture
+    second: {fileID: 2800000, guid: 4755bc80bea191743ade16fc69e41ce8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00107-texture
+    second: {fileID: 2800000, guid: 936666356c78e9044b9bd3f5df26976b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00110-texture
+    second: {fileID: 2800000, guid: 9938077b8a517e348bef00f00c09cbcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00111-texture
+    second: {fileID: 2800000, guid: 13029a62efc486348831b9628fd5b198, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00113-texture
+    second: {fileID: 2800000, guid: 5aeed5d17b95413458391a6f9a9f858f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00114-texture
+    second: {fileID: 2800000, guid: 7e9ba3eb9dc1b464ba7bda5e5693b52a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00116-texture
+    second: {fileID: 2800000, guid: 619eba196a1e44e408aaff7319d2e612, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00118-texture
+    second: {fileID: 2800000, guid: cf61ac3359d23174f849f426ebf97fab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00119-texture
+    second: {fileID: 2800000, guid: 210dceaf02986ed429dd17ed5ac0aa35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00120-texture
+    second: {fileID: 2800000, guid: 882964d449283e2408a7b22842f1e8df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00121-texture
+    second: {fileID: 2800000, guid: 4b74d44407ff31d44b1180e122a0dabe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00122-texture
+    second: {fileID: 2800000, guid: aaa57ad98cbac014aa67b995df604c70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00123-texture
+    second: {fileID: 2800000, guid: 2766264a31fdc1c42a69fc51a79ec61c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00124-texture
+    second: {fileID: 2800000, guid: 715d042ed366cf047bb511bb939ae76d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00125-texture
+    second: {fileID: 2800000, guid: 4ef518469dd9a5b4d89e91b8110d1db4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00126-texture
+    second: {fileID: 2800000, guid: e8b7ab1779bc3c94d87d6d923e9dd53b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00127-texture
+    second: {fileID: 2800000, guid: db412c303f157984da18f8c46e5b595b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00130-texture
+    second: {fileID: 2800000, guid: 393fe14f474386b46a1bded10aefbaa0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00131-texture
+    second: {fileID: 2800000, guid: e6e304e656ff9c047b4c1229a1151112, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00132-texture
+    second: {fileID: 2800000, guid: aacc3fd11467c9b499a076a6313959f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00133-texture
+    second: {fileID: 2800000, guid: 77b30c942251f0a478dc07e16109ba21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00134-texture
+    second: {fileID: 2800000, guid: e92153bd7bc4b1247a76f781152ba12a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00135-texture
+    second: {fileID: 2800000, guid: b624257cecc7e684e9d12d99a849fd99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00138-texture
+    second: {fileID: 2800000, guid: e7ae524e07fe00e4da53d7946f3b5eec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00139-texture
+    second: {fileID: 2800000, guid: b9011cb27e9898b4fbcfc4aaec3e375c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00140-texture
+    second: {fileID: 2800000, guid: 4eba9528a6488f44e867b5ef2548a915, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00141-texture
+    second: {fileID: 2800000, guid: 3dba4d6c83e1c12488a39f701feeff38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00142-texture
+    second: {fileID: 2800000, guid: 4cfb731b5c310ac4c892c8157ffb42cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00143-texture
+    second: {fileID: 2800000, guid: 2da64096001313542865eaa16f1fddc3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00144-texture
+    second: {fileID: 2800000, guid: 25017ecd4d304724fa8986e241c0452b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00147-texture
+    second: {fileID: 2800000, guid: 5f85e6e46155f9c458e5495cb99ecec4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00148-texture
+    second: {fileID: 2800000, guid: 744e032517c479e48848602a0865a566, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00149-texture
+    second: {fileID: 2800000, guid: 0a87f42e3a991bf45a486eb66ed14ee2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00151-texture
+    second: {fileID: 2800000, guid: d71d550dddda45643b943b6250cb3417, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00152-texture
+    second: {fileID: 2800000, guid: 7d8f8cbbeea4e8745b64513eef4ed258, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00153-texture
+    second: {fileID: 2800000, guid: c330956f7a6cedc499a110ae46641b7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00154-texture
+    second: {fileID: 2800000, guid: 2cac4f72e995db4468ba1f0fc1c5db07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00155-texture
+    second: {fileID: 2800000, guid: ac540d5b46bcf914fae7162e86f0dc13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00156-texture
+    second: {fileID: 2800000, guid: 5016491b3be37b74cac0670c693fa798, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00157-texture
+    second: {fileID: 2800000, guid: c01be836f355282499b7217e227d8692, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00158-texture
+    second: {fileID: 2800000, guid: a2aece3680623924a966a20b47082f14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00159-texture
+    second: {fileID: 2800000, guid: f327d864ac0acc1459906cd191327767, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00160-texture
+    second: {fileID: 2800000, guid: 3f427b67fcf05954baa3619b75a2a541, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00162-texture
+    second: {fileID: 2800000, guid: 2e61713d8a49b034eb53995e92140c1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00163-texture
+    second: {fileID: 2800000, guid: 83ff10b5c0bdc3a499c1afaa53f95c84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00164-texture
+    second: {fileID: 2800000, guid: 4413c98b8f136c340ab1eb64e9981a10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00165-texture
+    second: {fileID: 2800000, guid: 888c7d4cd2d6ede41bc19e7295d83043, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00166-texture
+    second: {fileID: 2800000, guid: 32142d327766ca645b1ae89ed20c33a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00168-texture
+    second: {fileID: 2800000, guid: bae46ed801e227e48a6bcbc701a7f5bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00169-texture
+    second: {fileID: 2800000, guid: e8be38aad34b3cf4a874c5e9fbecfe96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00170-texture
+    second: {fileID: 2800000, guid: 6a933b3aa2d816e43baeaf1d8f74cea0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00171-texture
+    second: {fileID: 2800000, guid: 488e7bbed9173de4ea528366571bbb24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00172-texture
+    second: {fileID: 2800000, guid: b5a1eb5eb8d37304093d1e3749835b18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00173-texture
+    second: {fileID: 2800000, guid: 9552912f7eb32b34f8e60e6c4f88bc75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00174-texture
+    second: {fileID: 2800000, guid: 6722538cf9496d542812a6c5ed4e06fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00175-texture
+    second: {fileID: 2800000, guid: d082c1f2bf5802144a2f46bdabcac096, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00176-texture
+    second: {fileID: 2800000, guid: f271ea5c637f49f4bb325059d1c44217, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00177-texture
+    second: {fileID: 2800000, guid: 7ba2541a9999722458be04a5771d7cbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00178-texture
+    second: {fileID: 2800000, guid: 5be3cad40c4d7a043862e30bc17593a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00179-texture
+    second: {fileID: 2800000, guid: 1daad5aed2ff01e4eae5feabcea01d9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00180-texture
+    second: {fileID: 2800000, guid: 337688c092740a543a19e6e48a32a427, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00182-texture
+    second: {fileID: 2800000, guid: 9cde335fce6941142865672f8c14a830, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00183-texture
+    second: {fileID: 2800000, guid: ab15d11e142356946805b278a1e9feff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00184-texture
+    second: {fileID: 2800000, guid: b71c8fd931df9e84ca9f09ee1f6b73fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00185-texture
+    second: {fileID: 2800000, guid: 6bcdb27d3a4843b46b75b2e36b3a3486, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00188-texture
+    second: {fileID: 2800000, guid: fe17104ed09929a4994288c834b4ec77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00189-texture
+    second: {fileID: 2800000, guid: 499b6c8894f0a2b43951ab86ab95a666, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00190-texture
+    second: {fileID: 2800000, guid: b4002b04b7917f545ae98a505209338d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00191-texture
+    second: {fileID: 2800000, guid: b07679ebd12d2fa47a82b98af6bd65ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00195-texture
+    second: {fileID: 2800000, guid: b22575afb8117ec4885fca2afabba489, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00196-texture
+    second: {fileID: 2800000, guid: 3fcb6cf6f80bf7641bde65e1062e4fbf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00198-texture
+    second: {fileID: 2800000, guid: db57087c0b15df1478d9a5d12a256974, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00199-texture
+    second: {fileID: 2800000, guid: 174a0abe54bdd174586f92d4bd0bdd9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00200-texture
+    second: {fileID: 2800000, guid: 3a18aa88482cd5b44a0b14c352a3154d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00201-texture
+    second: {fileID: 2800000, guid: cb6314458941aa74dbcf58a34b32dd1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00202-texture
+    second: {fileID: 2800000, guid: 08473c1b7bde98e47b1211a936a88ceb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00204-texture
+    second: {fileID: 2800000, guid: 37a2bb15e6c655a4a8c22abe460ebe33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00205-texture
+    second: {fileID: 2800000, guid: 49c4641c17b9a3c4fa02bad9a2ae1cdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00206-texture
+    second: {fileID: 2800000, guid: 3ca9181964627b34bb301530d8f54f21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00207-texture
+    second: {fileID: 2800000, guid: 9cd796f923e082e46a681784ed413dab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00211-texture
+    second: {fileID: 2800000, guid: 7a0540c512707b34895322d27cf29b37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00214-texture
+    second: {fileID: 2800000, guid: 2d37a6a7b3696b347b2fe48a7c9f6147, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00215-texture
+    second: {fileID: 2800000, guid: c87accb3086226f4c95067a6a7551a82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00216-texture
+    second: {fileID: 2800000, guid: 299b16204a9614e4caec292836c4b00c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00217-texture
+    second: {fileID: 2800000, guid: ce4067e0502353d4fa7c90c449c20c42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00218-texture
+    second: {fileID: 2800000, guid: 522a802c06a753e44b3f0a91d29efc83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00219-texture
+    second: {fileID: 2800000, guid: 38edb53f576bf9a4cbd1b8623d620798, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00220-texture
+    second: {fileID: 2800000, guid: b4c814ecdaa246a4896481d2ca5f045d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00221-texture
+    second: {fileID: 2800000, guid: 70b4d5661f3c97c4aa41e8d4121eea98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00222-texture
+    second: {fileID: 2800000, guid: ed10fb8901ab0e44a8da03a04885d8af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00226-texture
+    second: {fileID: 2800000, guid: d8ce67afccbfadb499ad957bef29c42d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00227-texture
+    second: {fileID: 2800000, guid: bb8a5cf55c34a2a45bfd617b67323071, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00228-texture
+    second: {fileID: 2800000, guid: 28af48ee7b80e9347895885e013dc7e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00229-texture
+    second: {fileID: 2800000, guid: ad5e458e0cce04d48bbfe8ee328a224c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00230-texture
+    second: {fileID: 2800000, guid: 4acc58633ad6bab4ca86849a2b988587, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00232-texture
+    second: {fileID: 2800000, guid: b0c280d58bb340c43a11fa54dd902131, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00234-texture
+    second: {fileID: 2800000, guid: 7da566b391ff4ae489ab765e12a52599, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00235-texture
+    second: {fileID: 2800000, guid: a17e735de8e38fe42b213b18fe33c23f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00236-texture
+    second: {fileID: 2800000, guid: 986785430bb250c41af3f613752e099e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00239-texture
+    second: {fileID: 2800000, guid: 44b9897555dc5794790bde192b7d5965, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00242-texture
+    second: {fileID: 2800000, guid: 9a93dc7271e94dd499922bc722f23fbf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00243-texture
+    second: {fileID: 2800000, guid: c84605bf5f8a20646b0f000698d0d294, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00244-texture
+    second: {fileID: 2800000, guid: 4b57e96ad0aec284fb5c1ce76a390d2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00245-texture
+    second: {fileID: 2800000, guid: e85ddea02c317df4a95682f9be649b77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00246-texture
+    second: {fileID: 2800000, guid: 22225a1a914f0904893b94faff8bc332, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00247-texture
+    second: {fileID: 2800000, guid: da40bca8e8990304ea0398875ed4851d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00249-texture
+    second: {fileID: 2800000, guid: 0a630af5cb4b9bc44b498d4342cc1e23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00251-texture
+    second: {fileID: 2800000, guid: 17b0fd325bcaeee40a8005170a643cd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00253-texture
+    second: {fileID: 2800000, guid: 0b63459cc1059fc4d88645b263c8bf84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00254-texture
+    second: {fileID: 2800000, guid: 5f8a43834b1dd5b4fbfdcce0fe6414aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00255-texture
+    second: {fileID: 2800000, guid: e13e1b89be00b8543bd93cf0b44f0212, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00256-texture
+    second: {fileID: 2800000, guid: 1644004a78e76eb4b9833ce1412c7eac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00257-texture
+    second: {fileID: 2800000, guid: 08f5246c0fedfbf44b6a323938b8ae19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00259-texture
+    second: {fileID: 2800000, guid: 94d04aca3dc86b147a1cfdffc33d62d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00261-texture
+    second: {fileID: 2800000, guid: afbadd20b67c21044ae760cd7a952e3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00262-texture
+    second: {fileID: 2800000, guid: caf01a85277b5c54e881645953ac6c0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00263-texture
+    second: {fileID: 2800000, guid: a3d94d52d83586b40b113df12ec2992b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00268-texture
+    second: {fileID: 2800000, guid: b8ccedef243f2584ab6d81c3f9fd1866, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00269-texture
+    second: {fileID: 2800000, guid: 2becbdbf7205c8c428e24565ccf8aaad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00270-texture
+    second: {fileID: 2800000, guid: 1078f859ce7d2ce4dac5ae7dcd165f2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00271-texture
+    second: {fileID: 2800000, guid: ce17ecfdced09d64f9d69b5066ba7495, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00272-texture
+    second: {fileID: 2800000, guid: 8d0a7d163ccfabf4ca98c77e9a1b4b96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00273-texture
+    second: {fileID: 2800000, guid: 8b145a3dad1d6f9458d7b7896f8e87ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00274-texture
+    second: {fileID: 2800000, guid: cdc9f0bcab9ff67478197103662abcb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00275-texture
+    second: {fileID: 2800000, guid: 004916bcc10fc6d4386b689a18c6422e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00276-texture
+    second: {fileID: 2800000, guid: c082700a23a7d0140b5ed1c6cdf9385a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00277-texture
+    second: {fileID: 2800000, guid: a9589d5540df2d24688de8195baeefd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00278-texture
+    second: {fileID: 2800000, guid: 1d44ae54e26560049b7a6d01a2ffbe65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00279-texture
+    second: {fileID: 2800000, guid: f702f7f0feb11ac41b074610e3538516, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00280-texture
+    second: {fileID: 2800000, guid: 244319065b19cb04597d2cc334353a8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00281-texture
+    second: {fileID: 2800000, guid: d8467a8cbe5ca614289340493c5f4042, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00284-texture
+    second: {fileID: 2800000, guid: 1892be1b24f13e940a9af579aac19ec2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00285-texture
+    second: {fileID: 2800000, guid: 736e3f34f8007a64bb73cd2a83e088ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00288-texture
+    second: {fileID: 2800000, guid: c142edae0b39aec4caaeb079e14a8722, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00294-texture
+    second: {fileID: 2800000, guid: 26f06e20c8c497e4fb6a7a9c4fa3aec0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00295-texture
+    second: {fileID: 2800000, guid: b7b9abc4ae40280438513c0e1f8878da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00296-texture
+    second: {fileID: 2800000, guid: d52a3d61a8a94f4409327a5fee11bedb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00297-texture
+    second: {fileID: 2800000, guid: c935e4629716c15409211a8b1433cccc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00300-texture
+    second: {fileID: 2800000, guid: 42398e3de54d7484ca9335d9b75569b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00306-texture
+    second: {fileID: 2800000, guid: 8ec20349a57db684a891f9807e8133a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00307-texture
+    second: {fileID: 2800000, guid: d798816c0cb1a07478b3c12bb2ce87a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00308-texture
+    second: {fileID: 2800000, guid: f932a6b885fadec48a1301c59c9f5e61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00321-texture
+    second: {fileID: 2800000, guid: 0cac0a93078e0c246b444137e88c2128, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00322-texture
+    second: {fileID: 2800000, guid: 2d657eeb896df714fa2daa3a0f13aaae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00356-texture
+    second: {fileID: 2800000, guid: 73a56ead7f50ac9409902c54feda581e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00357-texture
+    second: {fileID: 2800000, guid: 261abe457a7cf7843a4e3c0572f9d161, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00358-texture
+    second: {fileID: 2800000, guid: 1efcf8f02ec153346b9494c43364e5e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00359-texture
+    second: {fileID: 2800000, guid: 2efdb23554d15bc4980047912cc1accf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00360-texture
+    second: {fileID: 2800000, guid: c92fa5f20cb417345b59afe2dba23dd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00361-texture
+    second: {fileID: 2800000, guid: 3153f3c3f09db8246aa9d40fcec11fbf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00364-texture
+    second: {fileID: 2800000, guid: c905b6e106017d44b8622aeb173c127a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00365-texture
+    second: {fileID: 2800000, guid: 8a35e99c485f2e4429cd4fb6e12b72cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monumental2-00366-texture
+    second: {fileID: 2800000, guid: 8662dde6a39549045acd6bc5329e6b84, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
