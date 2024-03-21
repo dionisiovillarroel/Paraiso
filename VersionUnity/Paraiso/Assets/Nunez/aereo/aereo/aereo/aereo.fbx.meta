@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: f26c292b253d7d24ab0bafdbddb6201d
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00000-texture
+    second: {fileID: 2800000, guid: 91a6a710c121636499b1bfac256455d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00001-texture
+    second: {fileID: 2800000, guid: 64eba84ce68702a4295dc8f3423ddefe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00002-texture
+    second: {fileID: 2800000, guid: fc88f35b348ad9845a7820aebf2a4642, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00003-texture
+    second: {fileID: 2800000, guid: 04acaead29c048342bc5ca6e083e0a19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00004-texture
+    second: {fileID: 2800000, guid: 49f6a810998c60e46911ae00a388a96e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00005-texture
+    second: {fileID: 2800000, guid: e92006009e16fe74e8be65dc1c62ba20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00006-texture
+    second: {fileID: 2800000, guid: 01101bf9789f31042b60be1f01c3de63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00007-texture
+    second: {fileID: 2800000, guid: 6c6de47227f79f047ba0658150b1b90d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00008-texture
+    second: {fileID: 2800000, guid: 4ee10d6b4c815fd41b9b7246d69f9989, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00009-texture
+    second: {fileID: 2800000, guid: 728c11363bf7227419284f08f03a62d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00010-texture
+    second: {fileID: 2800000, guid: 6e2b0009a54ed2c4d8922fbbef5ab0eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00011-texture
+    second: {fileID: 2800000, guid: 64c447e447445854fa261a56d21a053f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00012-texture
+    second: {fileID: 2800000, guid: 3c11a134764b33c478f21a3294d2e4a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00013-texture
+    second: {fileID: 2800000, guid: 4c2e352c2dbed1341a0156516e1f4eea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00014-texture
+    second: {fileID: 2800000, guid: c653ee293e1c2de4791b889f9caccdd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00015-texture
+    second: {fileID: 2800000, guid: d6605046b129de748ad9739c99b414aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00016-texture
+    second: {fileID: 2800000, guid: c788450924fa9394cb5d1d239e0bfe78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00017-texture
+    second: {fileID: 2800000, guid: 253e36870597c194fb1f2e77243b2213, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00018-texture
+    second: {fileID: 2800000, guid: df743fc9ef58fbd4e900877b817e84c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00019-texture
+    second: {fileID: 2800000, guid: 84610a51d8c42c247b5c1fd9c5d1cd69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00020-texture
+    second: {fileID: 2800000, guid: ea9ef0b1ac03de84f8e67d57c4f4df54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00021-texture
+    second: {fileID: 2800000, guid: ab233f78f70b5ae4393102d69aa2a796, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00022-texture
+    second: {fileID: 2800000, guid: b63159b166b58614f98cc9a8fc8b0fcd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00023-texture
+    second: {fileID: 2800000, guid: 17d35bc4c31d5bb408697818caa39b10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00024-texture
+    second: {fileID: 2800000, guid: 235ef6577a8106e47a9d29169508a133, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00025-texture
+    second: {fileID: 2800000, guid: f505d8a2274a2874b9f71df70c85f445, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00026-texture
+    second: {fileID: 2800000, guid: b397b5533c3957f42903c265d6dfa8ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00027-texture
+    second: {fileID: 2800000, guid: 91598195841938b4e8fdf2599aabe3a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00028-texture
+    second: {fileID: 2800000, guid: 8cc2dab39da9a774c8eb9825250abce1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00029-texture
+    second: {fileID: 2800000, guid: ae603a7184dffcc439776bf8f256ed7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00030-texture
+    second: {fileID: 2800000, guid: ab5d644490bb4824994c54a9362e2a94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00031-texture
+    second: {fileID: 2800000, guid: d4106e9545045a94b9615968d06e1713, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00032-texture
+    second: {fileID: 2800000, guid: 674b6642ade4f3e42a85efc9eccea179, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00033-texture
+    second: {fileID: 2800000, guid: c19f376d5c6bb71418b5742013c00556, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00034-texture
+    second: {fileID: 2800000, guid: cce0d9393476d3540b1aa33abdf6a802, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00035-texture
+    second: {fileID: 2800000, guid: 797b9b829de431846ab087f42ab12d62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00036-texture
+    second: {fileID: 2800000, guid: bf2dc463086f44442b0ed724eea92a3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00037-texture
+    second: {fileID: 2800000, guid: fe96e5d6cc1b88041a61a07cda4c6c0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00038-texture
+    second: {fileID: 2800000, guid: 140dca2dbb240e94b8f6396990356c5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00039-texture
+    second: {fileID: 2800000, guid: 632df4013fc9a19468db7be66122eaed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00040-texture
+    second: {fileID: 2800000, guid: de7c4a18ebef98c49b14c1c16af44d3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00041-texture
+    second: {fileID: 2800000, guid: 871975c441403ff43a2e0e49709a6a08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00042-texture
+    second: {fileID: 2800000, guid: 7780f1b2b746df24ead5ee8f92e93ca7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00043-texture
+    second: {fileID: 2800000, guid: 045ade12b08e71046813112649e6489c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00044-texture
+    second: {fileID: 2800000, guid: f4233fb9d0efcc94ca5cb525c319fc23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00045-texture
+    second: {fileID: 2800000, guid: ca490d95c655aa4439f1c6d7663a540b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00046-texture
+    second: {fileID: 2800000, guid: 613d1687025aece4282b0b4151767772, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00047-texture
+    second: {fileID: 2800000, guid: d931b1c0955aac143aff0ff41108f174, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00048-texture
+    second: {fileID: 2800000, guid: 13de34bca840c114194ff65eb9c30c85, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00049-texture
+    second: {fileID: 2800000, guid: 93b9aea488ff5d74c918df27ab0d7149, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00050-texture
+    second: {fileID: 2800000, guid: e3b2335e4b1d7ca458121c85100e05df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00051-texture
+    second: {fileID: 2800000, guid: 62296752103607642b9d3ef6914f676f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00052-texture
+    second: {fileID: 2800000, guid: 2af7807778e90d049bfbe6f5e1fbba43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00053-texture
+    second: {fileID: 2800000, guid: 3170ebd1439672b4c9161b3e8f5d64d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00054-texture
+    second: {fileID: 2800000, guid: 321f93eb5bdfc114ba792ca5fec73a3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00055-texture
+    second: {fileID: 2800000, guid: bb1b6ae215b20ac44a3be19ece890136, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00056-texture
+    second: {fileID: 2800000, guid: 7cbafe15ed868e940b99e97a11b5a0e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00057-texture
+    second: {fileID: 2800000, guid: fb2f46c6d7fcc6e48923ad30c8e21fa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00058-texture
+    second: {fileID: 2800000, guid: 5b1ee817ef16d2643ba6824e08542dd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00059-texture
+    second: {fileID: 2800000, guid: c562c42268e743848ae2eb290acc3b2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00060-texture
+    second: {fileID: 2800000, guid: be2dbb5489f6eb140ac3084d34d74055, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00061-texture
+    second: {fileID: 2800000, guid: 62829487eadb57b44ae681df0fb96294, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00062-texture
+    second: {fileID: 2800000, guid: 5fb55ea7cdf14344590c9698d5be6e9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00063-texture
+    second: {fileID: 2800000, guid: d8f83257df91e4545af0122a7f6563ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00064-texture
+    second: {fileID: 2800000, guid: e4c84e321526dec44ab5d3aa8ea4afec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00065-texture
+    second: {fileID: 2800000, guid: b20c4a677879f4144a76e4f84dae0260, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00066-texture
+    second: {fileID: 2800000, guid: 8e144573786ff0642808f50c11116acb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00067-texture
+    second: {fileID: 2800000, guid: 36413b570dbec8840b0d5f4baaaa4091, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00068-texture
+    second: {fileID: 2800000, guid: a276550bd7b83ee48a2e5d61aae856b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00069-texture
+    second: {fileID: 2800000, guid: 19dcca1c0888fc84e9bbdabc5e2d0284, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00070-texture
+    second: {fileID: 2800000, guid: 87f035b5f1fd1f848b74f07cdc3e818c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00071-texture
+    second: {fileID: 2800000, guid: 598e4a6e0df49b145ae4e649015a2cee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00072-texture
+    second: {fileID: 2800000, guid: f863b6e488ecd544a94a57ca9347d212, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00073-texture
+    second: {fileID: 2800000, guid: 9c742959325c9f943b6d923ac6232a26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00074-texture
+    second: {fileID: 2800000, guid: 0b188ebde729ed0489c3e3b451474e8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00075-texture
+    second: {fileID: 2800000, guid: a20aac4a39c7f974aa59d44dfc6bb9bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00076-texture
+    second: {fileID: 2800000, guid: 8af08abaa253a0440983232f346f727c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00077-texture
+    second: {fileID: 2800000, guid: 329ab18bc51ae32409d5d74e29a043ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00078-texture
+    second: {fileID: 2800000, guid: a068d2e114d76e749bf93c6c22b84d3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00079-texture
+    second: {fileID: 2800000, guid: 13e5398ebd42f4047a0a618dbf1558e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00080-texture
+    second: {fileID: 2800000, guid: fc2eb9bd6c58d7243a5b93677553e48b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00081-texture
+    second: {fileID: 2800000, guid: eaafdb57cf35aa44a8e6a59aaa521147, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00082-texture
+    second: {fileID: 2800000, guid: 7c3967de94430a34b8fb2de3b99c0a10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00083-texture
+    second: {fileID: 2800000, guid: a7daa04d2730189478f50e0d7ce48b8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00084-texture
+    second: {fileID: 2800000, guid: 48e7bc356eda3aa48a3edf1dd64897cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00085-texture
+    second: {fileID: 2800000, guid: 6b12629059a0e4c4981c5ad64f261d83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00086-texture
+    second: {fileID: 2800000, guid: eaa6578973274c348b7ab5706d0b983d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00087-texture
+    second: {fileID: 2800000, guid: 01b8ac6618b9fee46aa7f3ea891b0f2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00088-texture
+    second: {fileID: 2800000, guid: 7885af3b948b87e4f94abd6ad7698e47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00089-texture
+    second: {fileID: 2800000, guid: 1bf39b45fde0ef14c80df20887f95e87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00090-texture
+    second: {fileID: 2800000, guid: e59bd11a09134484c8dd096b5e09d6d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00091-texture
+    second: {fileID: 2800000, guid: 67768be8bc9e021478395fa6ce61b0d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00092-texture
+    second: {fileID: 2800000, guid: 8d8dbd5bc63471647bd02121f72de1b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00093-texture
+    second: {fileID: 2800000, guid: c60f7843a703acb4aa0bc29d6544955a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00094-texture
+    second: {fileID: 2800000, guid: 96c1aede04ea1c949899aa2ac9ef6c8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00095-texture
+    second: {fileID: 2800000, guid: dec9692e153bd3c41a40a38dcf30233d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00096-texture
+    second: {fileID: 2800000, guid: a86e3c115faca6e4181378739e635aa1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00097-texture
+    second: {fileID: 2800000, guid: 0ad137b90fe9e474c921303fcb2b27b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00098-texture
+    second: {fileID: 2800000, guid: 40412dd6ed288f940808fa879e01d735, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00099-texture
+    second: {fileID: 2800000, guid: f8deff6b6c1880543bb2b9d08f48374a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00100-texture
+    second: {fileID: 2800000, guid: 608394b99b648594099af6eb2f596a4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00101-texture
+    second: {fileID: 2800000, guid: b119c90e7fc0cdf468a0b0f0c60988d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00102-texture
+    second: {fileID: 2800000, guid: 4a1f4ec63bd5fe74bb2d3cb4b8eb744f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00103-texture
+    second: {fileID: 2800000, guid: 2a44290516b030e40a816e92c0763c9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00104-texture
+    second: {fileID: 2800000, guid: 8a52112c0b3c3524a8f4bd054b22369d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00105-texture
+    second: {fileID: 2800000, guid: a1356b20799534f45894d59c4cbfd0e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00106-texture
+    second: {fileID: 2800000, guid: dab36f67ffaaa19418d0ac115d3e72a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00107-texture
+    second: {fileID: 2800000, guid: e24dbd6761cd6c5459a3bacc7e3b1f7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00108-texture
+    second: {fileID: 2800000, guid: 53e4591675a0e5442b938a1df51f9500, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00109-texture
+    second: {fileID: 2800000, guid: 39ca1707f7d24cd47bd625cdfaaea993, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00110-texture
+    second: {fileID: 2800000, guid: 01b7b8a1bea6ac6449bcad76ab68d4e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00111-texture
+    second: {fileID: 2800000, guid: 8abf58b4943baca40bc92de1b34b37e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00112-texture
+    second: {fileID: 2800000, guid: e19221db909a9454fb3d5c713f4a2818, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00113-texture
+    second: {fileID: 2800000, guid: 2156c1cc51f51d847a1e52f3b76aee58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00114-texture
+    second: {fileID: 2800000, guid: f6f61072d97a49247b1888eebf463f06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00115-texture
+    second: {fileID: 2800000, guid: dd90afc1c9bf3984c9089ce443a75a89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00116-texture
+    second: {fileID: 2800000, guid: d92838b3b607c7747a739ed76c61ebb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00117-texture
+    second: {fileID: 2800000, guid: a9d8eae3a3caeae4fa3e0b8a054964a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00118-texture
+    second: {fileID: 2800000, guid: 09bcd292aa475f04e82bcaa22e55c8e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00119-texture
+    second: {fileID: 2800000, guid: 44da7f9b5a07798409b19077f8df250d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00120-texture
+    second: {fileID: 2800000, guid: c892c19f952f3684db41c25338514def, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00121-texture
+    second: {fileID: 2800000, guid: e08cf8a054efc45489e62e9416e8d3a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00122-texture
+    second: {fileID: 2800000, guid: 76c861dccdfc9424aa15e06e02530ee1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00123-texture
+    second: {fileID: 2800000, guid: 52ae5d5a1d78eba499109f092db4e64f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00124-texture
+    second: {fileID: 2800000, guid: 0b2000bc30c98c64290da7c4c80b67c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00125-texture
+    second: {fileID: 2800000, guid: 622c27d29f24db74e83de53f6bbd6166, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00126-texture
+    second: {fileID: 2800000, guid: f2ecd6accc803a74ca0e0710bdc0881f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00127-texture
+    second: {fileID: 2800000, guid: eb3523c00ce1f174fa0c3bad57133d44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00128-texture
+    second: {fileID: 2800000, guid: da50820c4a7ba8545bdf67cf3d57fa7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00129-texture
+    second: {fileID: 2800000, guid: f7cc29d182b733a4090ae58b2f48cb5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00130-texture
+    second: {fileID: 2800000, guid: 1b4cb34743e8fb24085b61a2d6afad7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: aereo-00131-texture
+    second: {fileID: 2800000, guid: cdd92d014fc38854c80279f6df932c36, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

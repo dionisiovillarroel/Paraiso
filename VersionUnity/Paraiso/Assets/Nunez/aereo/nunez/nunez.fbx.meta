@@ -1,0 +1,4333 @@
+fileFormatVersion: 2
+guid: ef23dd1de73280e4da84c02bda4cc730
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00000-texture
+    second: {fileID: 2800000, guid: 44fa7c38fe6b9684b90450e4568015d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00001-texture
+    second: {fileID: 2800000, guid: 37c0f1f713192f845a2f6284e493c559, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00002-texture
+    second: {fileID: 2800000, guid: 28a34d0655f38e54aa7e163f4ff08451, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00003-texture
+    second: {fileID: 2800000, guid: 2f74257789f58c340b630b2ae4dc0ab6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00004-texture
+    second: {fileID: 2800000, guid: cec1c1918fad01842b18a108c216fd46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00005-texture
+    second: {fileID: 2800000, guid: e0960f0463720944ea0100da52ef8689, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00006-texture
+    second: {fileID: 2800000, guid: d99a55581b3bca345b97e6545187d682, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00007-texture
+    second: {fileID: 2800000, guid: e893cbb529271474b8e0ddeb2cd4cbac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00008-texture
+    second: {fileID: 2800000, guid: 25d410f038cc2424894b250c5cacebb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00009-texture
+    second: {fileID: 2800000, guid: ee1272a9791fa4f49bf08c243aa23172, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00010-texture
+    second: {fileID: 2800000, guid: df98ca7fc6f6b1441adcb4b4cbabdbeb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00011-texture
+    second: {fileID: 2800000, guid: a5879f78e6035e74aaf85761871b5dfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00012-texture
+    second: {fileID: 2800000, guid: 0a45056323e0f91459312d26c09c553d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00013-texture
+    second: {fileID: 2800000, guid: 160f09697b9af4340b9758b6cab09e83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00014-texture
+    second: {fileID: 2800000, guid: 080474b5eb818d843abda04c0a615bf5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00015-texture
+    second: {fileID: 2800000, guid: c4c4404c82c92584f8b26565c7396c81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00016-texture
+    second: {fileID: 2800000, guid: abfab525cf3fe024fa444fdad02b4517, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00017-texture
+    second: {fileID: 2800000, guid: 7b354a292c7fd1c4cb83a0c5a37e040a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00018-texture
+    second: {fileID: 2800000, guid: 33bd92a5128490149ad05a72a5a5062e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00019-texture
+    second: {fileID: 2800000, guid: 790731897d15b58498021bf8d6865da1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00020-texture
+    second: {fileID: 2800000, guid: 9022c06bb8b88664d965c72bb33cb762, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00021-texture
+    second: {fileID: 2800000, guid: bdcb138254b28154b8664407116ce31d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00022-texture
+    second: {fileID: 2800000, guid: 374910fe7ef646741b414b5066e65f2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00023-texture
+    second: {fileID: 2800000, guid: 43d0dd9d2cfeda1429e2bd74e9cf4148, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00024-texture
+    second: {fileID: 2800000, guid: 4085af2107d74b74b8bb79884abf9ae7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00025-texture
+    second: {fileID: 2800000, guid: de488f719537d634ea62eef48191255a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00026-texture
+    second: {fileID: 2800000, guid: b6a1715f392c8bd46b6dea2730db0c63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00027-texture
+    second: {fileID: 2800000, guid: a2a4bb0fe6d496e41920526afe5776e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00028-texture
+    second: {fileID: 2800000, guid: 542294c631041d44baba04451eced72e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00029-texture
+    second: {fileID: 2800000, guid: b1de3afeb312eee4ba329d371076f9b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00030-texture
+    second: {fileID: 2800000, guid: f237ddab605da5048b61f20cf58e1364, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00031-texture
+    second: {fileID: 2800000, guid: eab729a0b85844749b60d2510a3f6440, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00032-texture
+    second: {fileID: 2800000, guid: 4b22456093a043f4ca0e53f383432fd5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00033-texture
+    second: {fileID: 2800000, guid: daa10a4973e005f40a89918455b36786, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00034-texture
+    second: {fileID: 2800000, guid: 6356cbad32becb14b829866471691daf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00035-texture
+    second: {fileID: 2800000, guid: 7a7c0d6d2c335094db6cc4437b4f9edf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00036-texture
+    second: {fileID: 2800000, guid: 37de1c6215233b8489992400e96ec8d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00037-texture
+    second: {fileID: 2800000, guid: 91e7d0ac603748444a72dbdccf53431b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00038-texture
+    second: {fileID: 2800000, guid: f333e98f2970653418a85273ce5544bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00039-texture
+    second: {fileID: 2800000, guid: f211178edfd7f114593dee8b61ff8839, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00040-texture
+    second: {fileID: 2800000, guid: a84678d5eb7b63b478779deb70bd1b0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00041-texture
+    second: {fileID: 2800000, guid: 88c464069d057464183087181f764851, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00042-texture
+    second: {fileID: 2800000, guid: 9dff4eed3b315894790258245d498974, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00043-texture
+    second: {fileID: 2800000, guid: b71d9a8442a3f1d4ba3f28a200851b74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00044-texture
+    second: {fileID: 2800000, guid: 2f1689bf7c3669c4c94ffa710cc4651f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00045-texture
+    second: {fileID: 2800000, guid: 9180653871a9516479e5d61d429488f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00046-texture
+    second: {fileID: 2800000, guid: d173a5d1d7e3f1d45b4d5ef9902dcbc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00047-texture
+    second: {fileID: 2800000, guid: 39b6db91b0fa21940bba4ad10c8c52ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00048-texture
+    second: {fileID: 2800000, guid: a204766af1f82d14598d7af7bb977ce7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00049-texture
+    second: {fileID: 2800000, guid: 1b39fc7277f0dda4f81523887e456a0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00050-texture
+    second: {fileID: 2800000, guid: c56eb17451c01a344a5dd35a2c486e49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00051-texture
+    second: {fileID: 2800000, guid: 25fa021a32e28e94985f63f26df6e636, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00052-texture
+    second: {fileID: 2800000, guid: 769239a1c6b13854a9e5c8796f131dc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00053-texture
+    second: {fileID: 2800000, guid: 0fb31aff805b1ed47be13480380fa47c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00054-texture
+    second: {fileID: 2800000, guid: 5c72965926a4854409274fb396080c18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00055-texture
+    second: {fileID: 2800000, guid: 2dc353c49f0f00a4da6d16c36b671e05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00056-texture
+    second: {fileID: 2800000, guid: ad38b877aad8c704e9670fa22b0710b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00057-texture
+    second: {fileID: 2800000, guid: a7f1eaeefdf0ec848963f1ffec64b526, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00058-texture
+    second: {fileID: 2800000, guid: 9f50cc8cc22c38245af965941b6be066, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00059-texture
+    second: {fileID: 2800000, guid: ff4aa57388bb4bc41ac082f37965375d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00060-texture
+    second: {fileID: 2800000, guid: 04d85b9563a01634d9db373929546ce9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00061-texture
+    second: {fileID: 2800000, guid: 382eadbbb1206234abe99d6aadc24215, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00062-texture
+    second: {fileID: 2800000, guid: 7e7819437da9602419bc4b87e6a1f5de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00063-texture
+    second: {fileID: 2800000, guid: 15a14cd14476f7c4fa6516d7ea6f7fcd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00064-texture
+    second: {fileID: 2800000, guid: 215c1f19b8cb1f94db6eeb71ba50d547, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00065-texture
+    second: {fileID: 2800000, guid: b5a99ec0751cb814489222c2e8ce4921, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00066-texture
+    second: {fileID: 2800000, guid: 7ef59714e84874547b6211fc49cd7388, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00067-texture
+    second: {fileID: 2800000, guid: 61842eb8a58f3a644b402bee6098c44b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00068-texture
+    second: {fileID: 2800000, guid: 6668cc0c1e3a7ff42914781756c510cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00069-texture
+    second: {fileID: 2800000, guid: a7e3bce3e52de45449a56e0d16ee6d87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00070-texture
+    second: {fileID: 2800000, guid: 29ad9bc1a9d4edd44a666af6523b13d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00071-texture
+    second: {fileID: 2800000, guid: 08176304fc696274a8d4256a9b5da0f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00072-texture
+    second: {fileID: 2800000, guid: 7e8de07f22e6b0a42a119d95b1db94d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00073-texture
+    second: {fileID: 2800000, guid: 5b628f6371a382647908ab0c936f5d79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00074-texture
+    second: {fileID: 2800000, guid: 66889a103c02ec94ea25cc2502310f5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00075-texture
+    second: {fileID: 2800000, guid: a69fc301745e91340869caf83f19d3a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00076-texture
+    second: {fileID: 2800000, guid: 11277fb324a6be24c87b5773d7d8e496, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00077-texture
+    second: {fileID: 2800000, guid: 1cae9fc42980fa54aabae59b69dc0d0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00078-texture
+    second: {fileID: 2800000, guid: c65d60e5102f0774c9a755c569960897, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00079-texture
+    second: {fileID: 2800000, guid: b25d8baf09db5cf4d919b20ddef82d8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00080-texture
+    second: {fileID: 2800000, guid: af62909ded0ea4244bdc60021caa1940, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00081-texture
+    second: {fileID: 2800000, guid: 012b0245f6438a74e88335ba58a86ec7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00082-texture
+    second: {fileID: 2800000, guid: 7bfc48df6dd00664da0c5a945f9f5452, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00083-texture
+    second: {fileID: 2800000, guid: 3ac2282802ded1d43a49314cac309f1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00084-texture
+    second: {fileID: 2800000, guid: a4f573f788ed9f546a0f96ac1844a1d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00085-texture
+    second: {fileID: 2800000, guid: 87345721a5ddac842abbc59990a6a79f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00086-texture
+    second: {fileID: 2800000, guid: 455e36360631afc4a92680a3ed5bf758, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00087-texture
+    second: {fileID: 2800000, guid: dde3856443a174e4ba6c13d58c077f32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00088-texture
+    second: {fileID: 2800000, guid: 081af7e62ba1a2a498aa810fea7f3a7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00089-texture
+    second: {fileID: 2800000, guid: 03704e0a90e6f38499acddb85ea70e8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00090-texture
+    second: {fileID: 2800000, guid: dbc7ecdc89bf5464e8b4c61737bc11b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00091-texture
+    second: {fileID: 2800000, guid: 0824b0d954e48894fb6411b101550bc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00092-texture
+    second: {fileID: 2800000, guid: e53accb1eddec6543949b64bf52c6d7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00093-texture
+    second: {fileID: 2800000, guid: d03ce2876a96ae74fb4dd65ccc3ab31d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00094-texture
+    second: {fileID: 2800000, guid: 5e4a333cf4aba0743a49102f6dfa3480, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00095-texture
+    second: {fileID: 2800000, guid: d07afac0155aa664385383920a12ddc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00096-texture
+    second: {fileID: 2800000, guid: 86864f69b100e6e47bc56245ef8b3325, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00097-texture
+    second: {fileID: 2800000, guid: be6b699a38020e1428ec568bc87c4821, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00098-texture
+    second: {fileID: 2800000, guid: 813feb1e103aa79478c0a527c3d56760, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00099-texture
+    second: {fileID: 2800000, guid: bc0a54e0a996b274db8fed882c2aafe0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00100-texture
+    second: {fileID: 2800000, guid: 10ee502eb56d8a4438f55ad4034ea217, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00101-texture
+    second: {fileID: 2800000, guid: e81eec691503c0e45b1463bd6ea0738d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00102-texture
+    second: {fileID: 2800000, guid: b70b6a75f6c94c545a0a26842ef7fb8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00103-texture
+    second: {fileID: 2800000, guid: 782e966aff64e174194406b4945c46d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00104-texture
+    second: {fileID: 2800000, guid: 71c4bf9837aaea24faac95d56aafd670, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00105-texture
+    second: {fileID: 2800000, guid: c06b065d411da0043932751d148f06a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00106-texture
+    second: {fileID: 2800000, guid: ad13633b8b9b1154191c5c4f104bfc8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00107-texture
+    second: {fileID: 2800000, guid: babcd4a791f7a4048b4fae2603813eb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00108-texture
+    second: {fileID: 2800000, guid: abc4acfb546e5b44fa47c1b6b486b603, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00109-texture
+    second: {fileID: 2800000, guid: 22b128518bd3a704aa59a9650945745d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00110-texture
+    second: {fileID: 2800000, guid: d2ff67cdcba3b7540b11ef48cf569608, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00111-texture
+    second: {fileID: 2800000, guid: 209bee32d2fe35342a6ab78940d580dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00112-texture
+    second: {fileID: 2800000, guid: e394aa7a41e77134b9a9c550fc294747, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00113-texture
+    second: {fileID: 2800000, guid: cc2e8e962ce2a024a804b1c240fd8ed0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00114-texture
+    second: {fileID: 2800000, guid: 21eb508e53c392a44a5fd5b69e70a646, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00115-texture
+    second: {fileID: 2800000, guid: b4b0d24f1b480e640a306522eb787195, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00116-texture
+    second: {fileID: 2800000, guid: f196e8d40cdcfc5418dd43561650e163, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00117-texture
+    second: {fileID: 2800000, guid: 4241ce944ebd2fb4fa8f5f17bf96d4ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00118-texture
+    second: {fileID: 2800000, guid: e6e38bf324642db499f67e95e99dba3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00119-texture
+    second: {fileID: 2800000, guid: 86c0564867336764fa4bd5432db5b5a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00120-texture
+    second: {fileID: 2800000, guid: 89530d48799f5524e80191bd9335031a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00121-texture
+    second: {fileID: 2800000, guid: f34d3abd054c2ce408eaf171e7700987, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00122-texture
+    second: {fileID: 2800000, guid: cabedd2c3ab424d47a202cef448c4cb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00123-texture
+    second: {fileID: 2800000, guid: 27aa2a19170f6dc45ab830949f94b4fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00124-texture
+    second: {fileID: 2800000, guid: 2969e00b813b9cf4195bc625360fc3f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00125-texture
+    second: {fileID: 2800000, guid: ec1bb3e3fb9acdd4286a5500b5f2e8e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00126-texture
+    second: {fileID: 2800000, guid: b9d0d916988159146894f256396ee3df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00127-texture
+    second: {fileID: 2800000, guid: 29e97fca589226144973b0d8d7196e7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00128-texture
+    second: {fileID: 2800000, guid: 367c0e55d29b3664a9e6bc485b869127, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00129-texture
+    second: {fileID: 2800000, guid: bf7d1e7038ac0c943922add6c583ea89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00130-texture
+    second: {fileID: 2800000, guid: b5a734a07071c8941a5a57faafa0bc93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00131-texture
+    second: {fileID: 2800000, guid: 7c5e71f6835768a46be81d5ae56697d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00132-texture
+    second: {fileID: 2800000, guid: 3da00ef56c4616d4eba5918bfb06c480, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00133-texture
+    second: {fileID: 2800000, guid: b225eed068ba73d40b7f2678c0af9b54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00134-texture
+    second: {fileID: 2800000, guid: d476a94267654fc42b1515d9d8ce9eee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00135-texture
+    second: {fileID: 2800000, guid: 1966b39483e08e344bb0a673520314ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00136-texture
+    second: {fileID: 2800000, guid: 5ef33cb66aa636e49aeff940d6ac8b8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00137-texture
+    second: {fileID: 2800000, guid: a0163eb8695d88440b450fabf49df239, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00138-texture
+    second: {fileID: 2800000, guid: 0138bfdd1c8cd504b9abcbd69c34b682, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00139-texture
+    second: {fileID: 2800000, guid: 527764c2039dd8e40aec52a54b9f4375, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00140-texture
+    second: {fileID: 2800000, guid: 470e29312e835094c8c178a196d7db2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00141-texture
+    second: {fileID: 2800000, guid: 1893107e8edc46048a4d85b20d2b7515, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00142-texture
+    second: {fileID: 2800000, guid: 65727c409318b8846a4b0797c588663d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00143-texture
+    second: {fileID: 2800000, guid: 49e0e67993474c54fa6d6e8986596621, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00144-texture
+    second: {fileID: 2800000, guid: d81deeb8200ddc44887d948d39802b7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00145-texture
+    second: {fileID: 2800000, guid: 96835034b4ae4754d830e398f7dd7b82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00146-texture
+    second: {fileID: 2800000, guid: a6759c6edb8d070438c967da8e7162cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00147-texture
+    second: {fileID: 2800000, guid: 4ccca8e0eb9cc2b47be757104b3da769, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00148-texture
+    second: {fileID: 2800000, guid: 126f9302a873e604193150c3d5679c5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00149-texture
+    second: {fileID: 2800000, guid: e05290b515e8a4349a7004a4f5c36de1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00150-texture
+    second: {fileID: 2800000, guid: a01846899b7afc1449385a131ede05d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00151-texture
+    second: {fileID: 2800000, guid: e1525e472e5ce084cb16906f6c73336e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00152-texture
+    second: {fileID: 2800000, guid: 67606922b1f6a8b4187c8379366b4d9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00153-texture
+    second: {fileID: 2800000, guid: ddd7fd5ab9c4e80499b8d9f1c6c6e4a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00154-texture
+    second: {fileID: 2800000, guid: 33bf036ef0a1aeb4d8f5e6e7d472eab5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00155-texture
+    second: {fileID: 2800000, guid: 9e1b0ea9db98709479e2fa64bffb476d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00156-texture
+    second: {fileID: 2800000, guid: b8902ec009575c54d87348402ec36493, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00157-texture
+    second: {fileID: 2800000, guid: cc381944e86dd5b44a0c5b08e0120fcb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00158-texture
+    second: {fileID: 2800000, guid: e702749bb5f370e499ff06d5cdc18e49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00159-texture
+    second: {fileID: 2800000, guid: 1df182e40c99dab43be4cca570a101eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00160-texture
+    second: {fileID: 2800000, guid: 0861fa84e0bc39444b14a1a2b0fa53d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00161-texture
+    second: {fileID: 2800000, guid: d7dc69619f4347e4598ea1cefae34347, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00162-texture
+    second: {fileID: 2800000, guid: dfd73f8f6f96d8c40badd30474ee0988, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00163-texture
+    second: {fileID: 2800000, guid: 6f702552e09ffcc4b820967eb7227e83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00164-texture
+    second: {fileID: 2800000, guid: 6c17e7a80b34fa1499e863c04c2f3e76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00165-texture
+    second: {fileID: 2800000, guid: a65879929fabfab44a6883faabd3934d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00166-texture
+    second: {fileID: 2800000, guid: 845f5f3a92da0194fa90db7362e662e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00167-texture
+    second: {fileID: 2800000, guid: 84f098ac9f376824283a115ffab95bb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00168-texture
+    second: {fileID: 2800000, guid: f49c47fd6bf25744c88232ca685a896d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00169-texture
+    second: {fileID: 2800000, guid: d432b1a7551379942b3cf0df76b5294c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00170-texture
+    second: {fileID: 2800000, guid: d18c8f54fdccc2d43b8094dd75e19585, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00171-texture
+    second: {fileID: 2800000, guid: 0d7f499a486e79544be8e4bc51da5d8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00172-texture
+    second: {fileID: 2800000, guid: e36b364cee7a21e4bab6e68afa7b66f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00173-texture
+    second: {fileID: 2800000, guid: 703068bac0e658b48bb8d79ce4a7721c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00174-texture
+    second: {fileID: 2800000, guid: 739ed5b78c712cb43aceedc07531c251, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00175-texture
+    second: {fileID: 2800000, guid: 54ca75e45a739fb4380db951347c38f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00176-texture
+    second: {fileID: 2800000, guid: 5fc7e7c31c705444098fdd73c1adfe6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00177-texture
+    second: {fileID: 2800000, guid: e7ce3fdf5394e3e469991e42904369cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00178-texture
+    second: {fileID: 2800000, guid: 978d5ee959a05c341981045e2b7a4f16, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00179-texture
+    second: {fileID: 2800000, guid: 3a4b939820acc414bb16d32f2be33101, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00180-texture
+    second: {fileID: 2800000, guid: c8f6cdaf1f2985f46a07372da12a4a91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00181-texture
+    second: {fileID: 2800000, guid: 544de6b0228be70489fff29deb7eaae7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00182-texture
+    second: {fileID: 2800000, guid: 7ad80524b32e84844abfcfecc8adb7ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00183-texture
+    second: {fileID: 2800000, guid: 5b149465dc5faf94bb3a43394ecd5c34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00184-texture
+    second: {fileID: 2800000, guid: eeb26467357c240418e669f7ea73472f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00185-texture
+    second: {fileID: 2800000, guid: aa95df2bf564a894bb66e57d133159d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00186-texture
+    second: {fileID: 2800000, guid: 20353685e2604f746a5f612377009ec9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00187-texture
+    second: {fileID: 2800000, guid: 8bdc9f1de1d675240af1bcec2eabf6c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00188-texture
+    second: {fileID: 2800000, guid: a08220ce882dcb34d8c78f6ec87e1c2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00189-texture
+    second: {fileID: 2800000, guid: a74f00314145d894ab1ded751090a99e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00190-texture
+    second: {fileID: 2800000, guid: a8d4a9afb5343454e85f6cf00bcc53b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00191-texture
+    second: {fileID: 2800000, guid: e01577d3ed9e5cf4e826d2116295714c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00192-texture
+    second: {fileID: 2800000, guid: 75a864bc4516b1b4cb3fe54e9f9bb1ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00193-texture
+    second: {fileID: 2800000, guid: 95208e9b11dc80f4dace271d13fd58b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00194-texture
+    second: {fileID: 2800000, guid: 98590e91affe34043af6ab54e52741bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00195-texture
+    second: {fileID: 2800000, guid: c1934a655ed552046a40c2a2fb3dd62f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00196-texture
+    second: {fileID: 2800000, guid: 7df3abd1502470e409a47742071ba8bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00197-texture
+    second: {fileID: 2800000, guid: d6048a35130ba9f458d859cfa47c1d3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00198-texture
+    second: {fileID: 2800000, guid: 8973b5b04cc81fa45a12cf7579c2b8b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00199-texture
+    second: {fileID: 2800000, guid: c8465889e8dfc0f4591d759f68e2666f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00200-texture
+    second: {fileID: 2800000, guid: 26252a5d45847104aaf4da9bcce8a3f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00201-texture
+    second: {fileID: 2800000, guid: 0d82cc2463ad3bf4792e7bd59e0ad712, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00202-texture
+    second: {fileID: 2800000, guid: ce24397a73e446840bd9816d067f2021, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00203-texture
+    second: {fileID: 2800000, guid: a9ca204ce7bb74e43b748b5ca925c305, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00204-texture
+    second: {fileID: 2800000, guid: dc038b8a44e291e469d97ecd02ee6d5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00205-texture
+    second: {fileID: 2800000, guid: 355cb4a57b031464cacdae7650f2137a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00206-texture
+    second: {fileID: 2800000, guid: 2db61f1773a833d41abc15ddd1f43438, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00208-texture
+    second: {fileID: 2800000, guid: 08d1738fe5a4eac4994032e9847e0795, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00209-texture
+    second: {fileID: 2800000, guid: 16589926255b8f545a8ee66edf2e78de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00210-texture
+    second: {fileID: 2800000, guid: 02edc004ea1fa09489d1a26bc9140d19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00211-texture
+    second: {fileID: 2800000, guid: 6996fcc74b193ac4694b73da7d597540, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00212-texture
+    second: {fileID: 2800000, guid: bec60a553aae5ce4db9d7233d39e1a4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00213-texture
+    second: {fileID: 2800000, guid: d6a07f7cb79fe9246bb7697b1c9a543f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00214-texture
+    second: {fileID: 2800000, guid: 90b2efed9834a8f4380712534461f5b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00215-texture
+    second: {fileID: 2800000, guid: 57db66a1feefbc04cbd6a6545edfaef7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00216-texture
+    second: {fileID: 2800000, guid: 2ce68043987630748969376c579b2ed8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00217-texture
+    second: {fileID: 2800000, guid: e7efe4fd91702f64ab02d99aa52d3ef8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00218-texture
+    second: {fileID: 2800000, guid: 5668f22d062941f4b87a394208c69ee1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00219-texture
+    second: {fileID: 2800000, guid: f30495179a763e241a6e6b3de713d1b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00220-texture
+    second: {fileID: 2800000, guid: 9307fb5ec349b5a46a4cc292c724dc81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00221-texture
+    second: {fileID: 2800000, guid: da454416b0a15ce4fa7f82bed880a5f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00222-texture
+    second: {fileID: 2800000, guid: 2744f2a1be0f5274380907258ea4fd00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00223-texture
+    second: {fileID: 2800000, guid: 75c39102382bf694391b12ed68e3804a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00224-texture
+    second: {fileID: 2800000, guid: feb94dc8fd62ab04cacc6c26c2bf3266, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00225-texture
+    second: {fileID: 2800000, guid: d08ec7e21c0ebef4ab231c2ebbe3dbc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00226-texture
+    second: {fileID: 2800000, guid: c471492f8f56c004695e9252cf8c8cd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00227-texture
+    second: {fileID: 2800000, guid: 52fa1b1506c259f45a9363db2fb51a1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00228-texture
+    second: {fileID: 2800000, guid: b58779ba1e1839d45988f2a2c47e79ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00229-texture
+    second: {fileID: 2800000, guid: aa84faba51f035544a9da0d9b23d4595, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00230-texture
+    second: {fileID: 2800000, guid: ff7e09d2bff4bda49a5294e4ef79a306, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00231-texture
+    second: {fileID: 2800000, guid: a633270063106df49bdbb3fa3a3aaca6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00232-texture
+    second: {fileID: 2800000, guid: bbdc6cad86ff7f940a4f59a946f12c1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00233-texture
+    second: {fileID: 2800000, guid: 47454833d24e37b4f93e3967ee9ba90b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00234-texture
+    second: {fileID: 2800000, guid: ab2f3fee3b1757f44bbcce9d71ba6c27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00235-texture
+    second: {fileID: 2800000, guid: 1623aa98395842d49b7fb37cd271f9cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00236-texture
+    second: {fileID: 2800000, guid: 189e3bd05ac1aa74e94c068c8c6224ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00237-texture
+    second: {fileID: 2800000, guid: 768d0dcc71097b74489bd79ed32967f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00238-texture
+    second: {fileID: 2800000, guid: 9da480b13fe2b674fad88b8eb2536492, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00239-texture
+    second: {fileID: 2800000, guid: bf582c1de163c494f8a7d8b510b5787a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00240-texture
+    second: {fileID: 2800000, guid: d281fda731a59694ea6c90179396f343, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00241-texture
+    second: {fileID: 2800000, guid: c00d13714a7019c4882eb53543360f53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00242-texture
+    second: {fileID: 2800000, guid: 168308e69add7a14fb722642116c85cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00243-texture
+    second: {fileID: 2800000, guid: b962b9f943a3af6419e0fe19f08f9749, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00244-texture
+    second: {fileID: 2800000, guid: 94da0d8d64f951a4a8150f7d2c9596a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00245-texture
+    second: {fileID: 2800000, guid: 1012fc79c12494c458a04333eb46eeb2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00246-texture
+    second: {fileID: 2800000, guid: 35d76978bda66ac47b3f45911c766122, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00247-texture
+    second: {fileID: 2800000, guid: a06087222e4c9224ebc400f22a107b2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00248-texture
+    second: {fileID: 2800000, guid: 7d6e035a49250e043ac28b9e3704be36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00249-texture
+    second: {fileID: 2800000, guid: 59ef27d53718c864faa19c2c522e314d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00250-texture
+    second: {fileID: 2800000, guid: a91f51c05d39cf14e9bf40893bd3f6b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00251-texture
+    second: {fileID: 2800000, guid: 328ea565c2f275946b473e7b66708090, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00252-texture
+    second: {fileID: 2800000, guid: cdf0d104235f0864fa0c93c7d81fe49d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00253-texture
+    second: {fileID: 2800000, guid: 42ca3f96034422048bb00ad20f78837d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00254-texture
+    second: {fileID: 2800000, guid: 86080b804862115499e7ccfa0d91a195, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00255-texture
+    second: {fileID: 2800000, guid: 54a9351afab4930408c387ea4b8d97c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00256-texture
+    second: {fileID: 2800000, guid: b3f96113b970b9444a000ee110e6bd4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00257-texture
+    second: {fileID: 2800000, guid: 2545fd5fb36015d43950d0233bda4341, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00258-texture
+    second: {fileID: 2800000, guid: f96ae90d36f98d640b2fb6674b14b124, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00259-texture
+    second: {fileID: 2800000, guid: ec91a92eee82f8548bd019b1d3b96397, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00260-texture
+    second: {fileID: 2800000, guid: f5dfc0f4ac9fd9b47beb72aa76007fd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00261-texture
+    second: {fileID: 2800000, guid: 237bd3675a6a6fa41a8b2e614c57bcd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00262-texture
+    second: {fileID: 2800000, guid: 310ffcf8936898b46abf7d80a36079ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00263-texture
+    second: {fileID: 2800000, guid: 26ed9e3b6eb17ca4cb6b2443aa018178, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00264-texture
+    second: {fileID: 2800000, guid: 2c8653ec50172d64d89ff6640abbd5e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00265-texture
+    second: {fileID: 2800000, guid: 085db0d766eaeee49b959e23ad48ffe8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00266-texture
+    second: {fileID: 2800000, guid: e522bd7dbc8c905428e588fc75cc3217, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00267-texture
+    second: {fileID: 2800000, guid: 9c6b0dce7cabce0489132e133c8a2d5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00268-texture
+    second: {fileID: 2800000, guid: f854b1e5e60391149ba43f3c3148e5f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00269-texture
+    second: {fileID: 2800000, guid: 2c55821b89c183041880034434ba73e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00270-texture
+    second: {fileID: 2800000, guid: 67c5a9614cdece9499c27ef14ea25e78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00271-texture
+    second: {fileID: 2800000, guid: fbd293e44abc0e34fa662b67386c331a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00272-texture
+    second: {fileID: 2800000, guid: 6c0eb2373aa747f4aba542c9a9872cd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00273-texture
+    second: {fileID: 2800000, guid: 7d0cf24cf717cf04ab9f53216d27b9e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00274-texture
+    second: {fileID: 2800000, guid: a3cae1a3a75078c4e8257081e1f6dac7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00275-texture
+    second: {fileID: 2800000, guid: 256ed6b7b27c6ee49825ffaf55f48402, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00276-texture
+    second: {fileID: 2800000, guid: 5ca3cdee6a80c744ba44d3fde95a4f37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00277-texture
+    second: {fileID: 2800000, guid: aff23e66db00d474ba4bad3b48ccf27e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00278-texture
+    second: {fileID: 2800000, guid: d429bf28ca2e8384d9ee6a5784f53c10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00279-texture
+    second: {fileID: 2800000, guid: 8600099bc16c2424f8bf757b8c088823, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00280-texture
+    second: {fileID: 2800000, guid: 15bf529d052dddc4aa89a1b47eb84740, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00281-texture
+    second: {fileID: 2800000, guid: f99c9ce1435c9454eb5a23e09121334e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00282-texture
+    second: {fileID: 2800000, guid: 9a24500c66f6fce43af8510188c4167f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00283-texture
+    second: {fileID: 2800000, guid: 02b1902d7792eaf43a6370cef59170b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00284-texture
+    second: {fileID: 2800000, guid: 9692c970b606c254694fd2907ce5b579, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00285-texture
+    second: {fileID: 2800000, guid: b27a1a0785e305741b879807faf84dc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00286-texture
+    second: {fileID: 2800000, guid: cb14d59c980a81b40aaa81e68ed74153, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00287-texture
+    second: {fileID: 2800000, guid: aa8f404e9532a2a4cba64f4ae3473b7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00288-texture
+    second: {fileID: 2800000, guid: 379b0efe77744bb4d881564325851620, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00289-texture
+    second: {fileID: 2800000, guid: 15e391ea503ed884fab1be9ff50d3910, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00290-texture
+    second: {fileID: 2800000, guid: 0ed3d83029dce56408637ca389d49529, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00291-texture
+    second: {fileID: 2800000, guid: 0a68e23bca267ee47b6f220ef0676cb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00292-texture
+    second: {fileID: 2800000, guid: 585dc7dd6373df149ae5113cd7443f3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00293-texture
+    second: {fileID: 2800000, guid: d7b704c169bd218408061f249023c48c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00294-texture
+    second: {fileID: 2800000, guid: c0d77c5d247abc343bddfb32be4408d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00295-texture
+    second: {fileID: 2800000, guid: 058caeb7da28b3d4ead1793904e7466d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00296-texture
+    second: {fileID: 2800000, guid: ee761ce471e8b604bbb99c055776d375, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00297-texture
+    second: {fileID: 2800000, guid: f11b2518f6e451f4e92b72b94afefa46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00298-texture
+    second: {fileID: 2800000, guid: b420f2aa75a06e4468ffe5d9b1c057ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00299-texture
+    second: {fileID: 2800000, guid: 3992856918226fb449116b889734fb90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00300-texture
+    second: {fileID: 2800000, guid: 601a6f9054d2b7241890b01ff0a4556c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00301-texture
+    second: {fileID: 2800000, guid: 9c37a387d9fb02449861b551ef3ddfd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00302-texture
+    second: {fileID: 2800000, guid: 5c1fb64c9d042904a85bcaa065ad6e9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00303-texture
+    second: {fileID: 2800000, guid: 3ecdc6adec8ac2948b11f3b5e639d90a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00304-texture
+    second: {fileID: 2800000, guid: 8165c1c9a54838d479129bd2822bf75c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00305-texture
+    second: {fileID: 2800000, guid: dfe1ac3cc37b83e449fb82ce7af50256, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00306-texture
+    second: {fileID: 2800000, guid: ed44e019d19b2e141aecd7545b6cdff5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00307-texture
+    second: {fileID: 2800000, guid: 36129bb226d635149a3b23c4a24535eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00308-texture
+    second: {fileID: 2800000, guid: e1c75b0e529f2c2478ebd4ae44253c6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00309-texture
+    second: {fileID: 2800000, guid: 660d7cfba26175444a420bf8390ad1fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00310-texture
+    second: {fileID: 2800000, guid: 6a5324ee3490e884b88a87695097de10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00311-texture
+    second: {fileID: 2800000, guid: 0edc862d4cc865545991e8153721633b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00312-texture
+    second: {fileID: 2800000, guid: 42a6033fa0337654c8a0d5057759f258, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00313-texture
+    second: {fileID: 2800000, guid: 6d22394b6a3757145b112b488473fe89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00314-texture
+    second: {fileID: 2800000, guid: 37b8b3cdfa0e24c4d9b0fc75f68e8853, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00315-texture
+    second: {fileID: 2800000, guid: f5cafad3b71e0e948873cbe5d9b7728f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00316-texture
+    second: {fileID: 2800000, guid: cfe6f458e55f17e42b16788bcfcc0f77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00317-texture
+    second: {fileID: 2800000, guid: d078e5c2b2d02ee44aac5570e3a08f2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00318-texture
+    second: {fileID: 2800000, guid: fa910355d31eb434995d5f534b05de49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00319-texture
+    second: {fileID: 2800000, guid: 899c4fce7ea38e84f8d14f0323ddebed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00320-texture
+    second: {fileID: 2800000, guid: 36473bd32a8fe734cb87c2d3ddd7a21a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00321-texture
+    second: {fileID: 2800000, guid: d9cf9757e898f5b4c82e503af1209b27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00322-texture
+    second: {fileID: 2800000, guid: cdef938df0dae684a8fc74df7a57f8db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00323-texture
+    second: {fileID: 2800000, guid: b7df656eeb08f7c43a87861f6c1f8d30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00324-texture
+    second: {fileID: 2800000, guid: 5b5974d3642187a4ca47b54eebf5d83e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00325-texture
+    second: {fileID: 2800000, guid: a1da4c8a13c98b8459d1d348d8324016, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00326-texture
+    second: {fileID: 2800000, guid: ee690e7f49d8d7942ad093a34a653af4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00327-texture
+    second: {fileID: 2800000, guid: b49eaab54c3e02a4c892beae3854606a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00328-texture
+    second: {fileID: 2800000, guid: ae1ef1b50f99eeb489f0a5cc02786261, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00329-texture
+    second: {fileID: 2800000, guid: c0ec5d9bbec62e944b3ec02f4cce57b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00330-texture
+    second: {fileID: 2800000, guid: d190b9a14d784b54392de5d9411a4621, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00331-texture
+    second: {fileID: 2800000, guid: 20f8bb3c5554cca44986bd7ed489a821, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00332-texture
+    second: {fileID: 2800000, guid: 4b7ecbc24b878bb419118a2c3d002d00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00333-texture
+    second: {fileID: 2800000, guid: a973deeb9eff8f34ebc3e06803cf1e33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00334-texture
+    second: {fileID: 2800000, guid: 88a065694911ab445b781400b0237600, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00335-texture
+    second: {fileID: 2800000, guid: 2e40b53fc923ff54296090545c4f88fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00336-texture
+    second: {fileID: 2800000, guid: 2bbe95be791504f4294ebf03dd38600f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00337-texture
+    second: {fileID: 2800000, guid: 3e8f06d5bd0052948ac8d807f5ef3b26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00338-texture
+    second: {fileID: 2800000, guid: 2ee87771175fac345bb3faaf2ea92952, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00339-texture
+    second: {fileID: 2800000, guid: 24e5cd06263ccd34d85e8dcdd3f274b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00340-texture
+    second: {fileID: 2800000, guid: aed0758ce18f7d0448d9e838be0b879d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00341-texture
+    second: {fileID: 2800000, guid: 7db4e2d7d7cdba848941370834c233ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00342-texture
+    second: {fileID: 2800000, guid: ef43d3f78cab4f74899b0989d981831c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00343-texture
+    second: {fileID: 2800000, guid: bf8284fcfc9bd224cbde6e114c3ebfad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00344-texture
+    second: {fileID: 2800000, guid: 92c6c540e3f18a343bd54bc8fab0b9bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00345-texture
+    second: {fileID: 2800000, guid: f8c8957bc6db8cd48a41486686775d8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00346-texture
+    second: {fileID: 2800000, guid: e656c9a7d722c9a4bb724d21d24d477a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00347-texture
+    second: {fileID: 2800000, guid: 81fdba1141d47d64abe0edebea5b11b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00348-texture
+    second: {fileID: 2800000, guid: d2434ac619f075d48989e2ad58f06ea2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00349-texture
+    second: {fileID: 2800000, guid: e05a8095ef5d0d645ba53bca6b0c25a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00350-texture
+    second: {fileID: 2800000, guid: 706e30b715e17014f87f8ccbd2363c6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00351-texture
+    second: {fileID: 2800000, guid: c4f743d9f96bcb443ba17d86ace520d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00352-texture
+    second: {fileID: 2800000, guid: f1fedc3b7579cfe40ac37729562155ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00353-texture
+    second: {fileID: 2800000, guid: 45c1900f66890f34e89b92c7167e93a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00354-texture
+    second: {fileID: 2800000, guid: e2ee28dec6db1414aaa54429e3fa72b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00355-texture
+    second: {fileID: 2800000, guid: 938987d792b5be9449fb37e072abf065, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00356-texture
+    second: {fileID: 2800000, guid: 38fdd178de08bc34f9f261ff5c77c39a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00357-texture
+    second: {fileID: 2800000, guid: 9bf5325748c128d468e4c3b4a43cda91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00358-texture
+    second: {fileID: 2800000, guid: b6f4cec9d9e161843b33f0d986b64559, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00359-texture
+    second: {fileID: 2800000, guid: 981e0ecfb8ddfb14cb73a8b17807133a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00360-texture
+    second: {fileID: 2800000, guid: 40ede1605b6c5894795a74f3b02af633, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00361-texture
+    second: {fileID: 2800000, guid: e7915c1af34a6574a9dd7391cce60d33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00362-texture
+    second: {fileID: 2800000, guid: 3b3a28b598dcf394cb0ed040e17bad12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00363-texture
+    second: {fileID: 2800000, guid: 3d58c8064fd070f4aa9b04a0ee7f4fb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00364-texture
+    second: {fileID: 2800000, guid: 89ff2c860cb8e364fb567b8a6eac1c68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00365-texture
+    second: {fileID: 2800000, guid: 8cef3c1cc9b25a449a872d44d7c00763, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00366-texture
+    second: {fileID: 2800000, guid: 159d844a48beef345b47d7fa546e59bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00367-texture
+    second: {fileID: 2800000, guid: f592666be13916749bcc4e47d2b265e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00368-texture
+    second: {fileID: 2800000, guid: 507334245ca716f4fa744667106510ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00369-texture
+    second: {fileID: 2800000, guid: 3571c0c89adb004499bc7a9f0962f13a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00370-texture
+    second: {fileID: 2800000, guid: 4d66a7baf5e26a3488d27725c12a65d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00371-texture
+    second: {fileID: 2800000, guid: 5b1949de1e49c9f4f95ad9b5840c7270, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00372-texture
+    second: {fileID: 2800000, guid: dcd55b573d8d4e144b1fda6a3c3f7e17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00373-texture
+    second: {fileID: 2800000, guid: 72ef7f5f01e49df4580694f382055f3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00374-texture
+    second: {fileID: 2800000, guid: a0e751add5fc06149ac6348a87f96625, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00375-texture
+    second: {fileID: 2800000, guid: 3b39253ec937eec45b0672211b24dd5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00376-texture
+    second: {fileID: 2800000, guid: ae83708db3e0fce409caac37ccae9aa7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00377-texture
+    second: {fileID: 2800000, guid: 9d511b491e4834f4896a0da841585fd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00378-texture
+    second: {fileID: 2800000, guid: e9bcf5b738231494381d13aa4585c3f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00379-texture
+    second: {fileID: 2800000, guid: d2e0265f6a3a12740b47205b3e84bb62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00380-texture
+    second: {fileID: 2800000, guid: 5bc0dd1673a2c844789657ca326c5dae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00381-texture
+    second: {fileID: 2800000, guid: ef90e178356ad6646849038fc437a62a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00382-texture
+    second: {fileID: 2800000, guid: b03da8fb79407ac40940ed4b19aff14c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00383-texture
+    second: {fileID: 2800000, guid: 660aeaeb1f77bab40af2c9dc2ee9984b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00384-texture
+    second: {fileID: 2800000, guid: f518a042afbf6f34ca9dafb416fd7603, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00385-texture
+    second: {fileID: 2800000, guid: 1c126407583ad4a49b19e92876d18bce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00386-texture
+    second: {fileID: 2800000, guid: 6962ec176ac58de42876cff67aa13f69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00387-texture
+    second: {fileID: 2800000, guid: 5e984e47922c43347a6a66abd036ac76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00388-texture
+    second: {fileID: 2800000, guid: de84771f89b7b6841a38dc28f5e95d4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00389-texture
+    second: {fileID: 2800000, guid: 74436718538519b45bcaa1ca4a67b5a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00390-texture
+    second: {fileID: 2800000, guid: 5276c58653f394644b17994717743f39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00391-texture
+    second: {fileID: 2800000, guid: 1c7e1b530fa48994bb1f43d73736460e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00392-texture
+    second: {fileID: 2800000, guid: a83a5dc3467b733439026736774f4c4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00393-texture
+    second: {fileID: 2800000, guid: 2de2a84aa84366c4dad75ad16305f396, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00394-texture
+    second: {fileID: 2800000, guid: 4b28c59c7818d2547878ef492e68774d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00395-texture
+    second: {fileID: 2800000, guid: b30fa2be94beffe478085bc81c13b2cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00396-texture
+    second: {fileID: 2800000, guid: ae0d7954549ad2142938f91e13d03180, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00397-texture
+    second: {fileID: 2800000, guid: 068df46ae07315b458bda22d8ee228cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00398-texture
+    second: {fileID: 2800000, guid: 579b76a71df7baf4ab81d8685b990fae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00399-texture
+    second: {fileID: 2800000, guid: ed58cee95fa770f4895fb106b6e765bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00400-texture
+    second: {fileID: 2800000, guid: 3a5337c672efa9841aa924e03eb1c212, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00401-texture
+    second: {fileID: 2800000, guid: 1bebf7f6cf9226943944522b086f9b88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00402-texture
+    second: {fileID: 2800000, guid: 37fb0366746340649b2f793dd274ab37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00403-texture
+    second: {fileID: 2800000, guid: b2558587ad7e0cd4489ddade75aaf397, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00404-texture
+    second: {fileID: 2800000, guid: 3bbe48490f7f4224cb44888ef8cc11c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00405-texture
+    second: {fileID: 2800000, guid: e52c6ac729758254396a4fd6924cc37f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00406-texture
+    second: {fileID: 2800000, guid: ad76dc5089aca1b47904763bdf2d403e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00407-texture
+    second: {fileID: 2800000, guid: c65586f02ae966941bf00b6023b94eb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00408-texture
+    second: {fileID: 2800000, guid: 2be4af2a8079ebe4fa3cc57e3d85ab31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00409-texture
+    second: {fileID: 2800000, guid: add101c82375be94eaa868c78927e5f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00410-texture
+    second: {fileID: 2800000, guid: 7aa35d9de90d25b4481d0bcf465501bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00411-texture
+    second: {fileID: 2800000, guid: d3847496a457d0342b5bd1573ed4060f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00412-texture
+    second: {fileID: 2800000, guid: 42e34c6355a72b945a5fec0ab8165987, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00413-texture
+    second: {fileID: 2800000, guid: 49fb6ba69599065418d598218be67849, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00414-texture
+    second: {fileID: 2800000, guid: 8b15072a19a942640a20822504e74e39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00415-texture
+    second: {fileID: 2800000, guid: 8c189971a4711f9489f03d957fcba429, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00416-texture
+    second: {fileID: 2800000, guid: 3b5c8fa164a79c74eabfe479394eb2fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00417-texture
+    second: {fileID: 2800000, guid: 1b4b832d875acdd43b0692c001590648, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00418-texture
+    second: {fileID: 2800000, guid: 8d3c65052bd11804fb70f29aef3a6002, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00419-texture
+    second: {fileID: 2800000, guid: 8b065bdc6c133f84c9c1c711c6c3e74f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00420-texture
+    second: {fileID: 2800000, guid: 0fbfe94db50b359469abb7ec16a5c000, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00421-texture
+    second: {fileID: 2800000, guid: c4acc2ebe24df7547b50711f41a32efc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00422-texture
+    second: {fileID: 2800000, guid: 54d05c346b12a2b49af27116ba976351, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00423-texture
+    second: {fileID: 2800000, guid: 206b8445d4076854da22c17145d71e7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00424-texture
+    second: {fileID: 2800000, guid: e0d5128606f4f01489d59c80e2565ad9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00425-texture
+    second: {fileID: 2800000, guid: 9ea580fe1a0be324ea7f39f545f7fd1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00426-texture
+    second: {fileID: 2800000, guid: 25ecaf41a7d019c4a9a31dcbd01a2e5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00427-texture
+    second: {fileID: 2800000, guid: 0f9ffd7666c395f41a1f8b18b3853f81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00428-texture
+    second: {fileID: 2800000, guid: 14f1432afd988294db4e51214755f540, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00429-texture
+    second: {fileID: 2800000, guid: 4f5ac41492f6f1547bbaa090b2d215fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00430-texture
+    second: {fileID: 2800000, guid: 236ae53892a35aa4aa7cfed3e6e9e949, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00431-texture
+    second: {fileID: 2800000, guid: 8c9752965bf37e741bb9e337765daa76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00432-texture
+    second: {fileID: 2800000, guid: a64cd894c9da8c948bc7b03a98618390, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00433-texture
+    second: {fileID: 2800000, guid: 5b208e1e6dd1c96428fd7d6b493f4cf1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00434-texture
+    second: {fileID: 2800000, guid: 11e45693c2b6a5c42b18f41e65796898, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00435-texture
+    second: {fileID: 2800000, guid: e7022167394caca41bf4bf96cb82a13b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00436-texture
+    second: {fileID: 2800000, guid: d5c944b275da64f44a9c18bc0fa6b8b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00437-texture
+    second: {fileID: 2800000, guid: ade8ab5bc3df28e458c8d09d2a1e1bda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00438-texture
+    second: {fileID: 2800000, guid: c4ea8c3bd39baf445afc692fefde176f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00439-texture
+    second: {fileID: 2800000, guid: 6e741d837e17033429a4d1858c3391c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00440-texture
+    second: {fileID: 2800000, guid: ea0f1a76e2d5c304e872ba78d7cdc077, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00441-texture
+    second: {fileID: 2800000, guid: 6ed339ff2365de04fb59d68a095a0e86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00442-texture
+    second: {fileID: 2800000, guid: 7ac254e6f676d6c47b6e3ca57a6be098, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00443-texture
+    second: {fileID: 2800000, guid: 24864f9588a693a488fd00470dbe0bf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00444-texture
+    second: {fileID: 2800000, guid: ce8a62ac45a9d9d4eba61458130fe4bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00445-texture
+    second: {fileID: 2800000, guid: d465afaca0931bb4a8b467e1e10a7760, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00446-texture
+    second: {fileID: 2800000, guid: 31f35f695ea18e74d90dc16acf2389fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00447-texture
+    second: {fileID: 2800000, guid: 4ee7df2b58ff71a46a4f850ef20df469, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00448-texture
+    second: {fileID: 2800000, guid: 21a1a0dbd4148584db67bbeb34e1ec8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00449-texture
+    second: {fileID: 2800000, guid: 0589d526972d27b438aebb71d388280c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00450-texture
+    second: {fileID: 2800000, guid: 3ad6353e0eac2e24da154cac4d6e8e00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00451-texture
+    second: {fileID: 2800000, guid: 7a4ab36283b4c304a8939c7901434e4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00452-texture
+    second: {fileID: 2800000, guid: b0bd7253a6aaaba4cb3b06fe86493401, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00453-texture
+    second: {fileID: 2800000, guid: 17eb2571a89f8d54884bac55227f38e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00454-texture
+    second: {fileID: 2800000, guid: 5f50a94c2dc484843a174696530697cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00455-texture
+    second: {fileID: 2800000, guid: cf84cceedd2af18468b56322ed1f961c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00456-texture
+    second: {fileID: 2800000, guid: 8579cc7083903fc47a8992ec173ea273, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00457-texture
+    second: {fileID: 2800000, guid: f46cf459911d5684e84c520cca88a8c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00458-texture
+    second: {fileID: 2800000, guid: 4a66fc727d9adf4429b722408adb58d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00459-texture
+    second: {fileID: 2800000, guid: 7af8b020f736e194b97e167b9a55db7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00460-texture
+    second: {fileID: 2800000, guid: 2dfc75168ff944c4d840cf008ced8964, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00461-texture
+    second: {fileID: 2800000, guid: cb22fc1c69febcc4eb3700fdd0cfed75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00462-texture
+    second: {fileID: 2800000, guid: 6a712e75b51551f4e98d213b663fd29b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00463-texture
+    second: {fileID: 2800000, guid: 86d60de1c78f5d549a4cb64c89a3acd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00464-texture
+    second: {fileID: 2800000, guid: 2b5c06068fa64de448bd329a0b5d6a11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00465-texture
+    second: {fileID: 2800000, guid: 354894267739875418ac893403b90a5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00466-texture
+    second: {fileID: 2800000, guid: 6bc08e36f4b0e304ca8da5d933f13e69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00467-texture
+    second: {fileID: 2800000, guid: fd821bd1d864c3f4ea810dda155b04e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00468-texture
+    second: {fileID: 2800000, guid: 458672c713339dc4cb342b6980c85969, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00469-texture
+    second: {fileID: 2800000, guid: 5f2aca13904dcd240ba90e7071721b39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00470-texture
+    second: {fileID: 2800000, guid: 0ac52ae4e88b9874988d9a64b6e43eed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00471-texture
+    second: {fileID: 2800000, guid: c133af2e748cbf94f88f3335b03a2a6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00472-texture
+    second: {fileID: 2800000, guid: bfd405171320618448bf29a761f913e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00473-texture
+    second: {fileID: 2800000, guid: 8a511a95b0cc46d42a1eb8aff953ccc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00474-texture
+    second: {fileID: 2800000, guid: eae31d65590b34342b74f740ca00b5a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00475-texture
+    second: {fileID: 2800000, guid: 7a59411d72a4ed64fb658ec8fc86435f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00476-texture
+    second: {fileID: 2800000, guid: 7619fc1b01e8ed241acab354845d2439, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00477-texture
+    second: {fileID: 2800000, guid: 689cb2132981cf5409d61fdcc0509d44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00478-texture
+    second: {fileID: 2800000, guid: 7e889f92ef67eb244ad925525751e9ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00479-texture
+    second: {fileID: 2800000, guid: 1c95717b20966514492483bb6797d0db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00480-texture
+    second: {fileID: 2800000, guid: 4d29bf2570c15ae43a6957ff5841aae5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00481-texture
+    second: {fileID: 2800000, guid: f1506c9f8db326949a085414f537376e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00482-texture
+    second: {fileID: 2800000, guid: b858aea454d542e4fa90144ce418ddf7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00483-texture
+    second: {fileID: 2800000, guid: 1622246c10185df42b46f0cf4292eb4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00484-texture
+    second: {fileID: 2800000, guid: 1f8e5a1ff2e46e446a0677a7b2f944b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00485-texture
+    second: {fileID: 2800000, guid: 13a3b090b4a58b744bf7563ba1024371, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00486-texture
+    second: {fileID: 2800000, guid: 0c83bdbb399c613419a78876bb0ea45c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00487-texture
+    second: {fileID: 2800000, guid: cee04c3ebb327224cbfb533180f0adb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00488-texture
+    second: {fileID: 2800000, guid: b572c271f830e6642963a2a6961cfa6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00489-texture
+    second: {fileID: 2800000, guid: bf0e84585cef7a7499cdab1ae2592940, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00490-texture
+    second: {fileID: 2800000, guid: 2808f1fd8b3763544bc1a7080aacc3c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00491-texture
+    second: {fileID: 2800000, guid: b7cb73af9c5e84246864b3018ce1c5ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00492-texture
+    second: {fileID: 2800000, guid: 5bf453f1d9783c145903eaf6fd1777f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00493-texture
+    second: {fileID: 2800000, guid: 5029c864fcddad440a4aaacb309860c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00494-texture
+    second: {fileID: 2800000, guid: 4af21788824972c42a32151ec4b9df6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00495-texture
+    second: {fileID: 2800000, guid: 9cb79b12b666e3340ac6deeedbe6c5c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00496-texture
+    second: {fileID: 2800000, guid: b502c574e8c3b1e43a137095eab35e59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00497-texture
+    second: {fileID: 2800000, guid: f1de13b04eb22f1479523bd32ec48b13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00498-texture
+    second: {fileID: 2800000, guid: 253d0e1a05df47a45a3bc67ee552b5be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00499-texture
+    second: {fileID: 2800000, guid: ac47deeafc3658640a9b3efa3753ef97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00500-texture
+    second: {fileID: 2800000, guid: 7e6385cb35199a148bec0e203cf6b786, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00501-texture
+    second: {fileID: 2800000, guid: 53ef4e7e10fdb9045bc2bb776161cce8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00502-texture
+    second: {fileID: 2800000, guid: 0d471fa15f5537a429f00af1746c44f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00503-texture
+    second: {fileID: 2800000, guid: 823869bb130f82340b9fbc3ec129f5a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00504-texture
+    second: {fileID: 2800000, guid: 8e0987e4a7ed1f74d9cfd5a80426bf2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00505-texture
+    second: {fileID: 2800000, guid: c8c0a3904d6208c4991a1fccbf2fba26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00506-texture
+    second: {fileID: 2800000, guid: 09695cfbcb61b4b448c75b638c778ac4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00507-texture
+    second: {fileID: 2800000, guid: 5204b95b64de08448916e209f1f870c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00508-texture
+    second: {fileID: 2800000, guid: 07db5640770eba041b618cd7e5ebaf80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00509-texture
+    second: {fileID: 2800000, guid: 58a419255b29ab14195ddd8e9b645ee8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00510-texture
+    second: {fileID: 2800000, guid: ac4fa38f150723648849be71c3db27ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00511-texture
+    second: {fileID: 2800000, guid: 828f0581a9e12e24ebbd3e026e15551f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00512-texture
+    second: {fileID: 2800000, guid: e309e849d5908ec4a9232c093b69424e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00513-texture
+    second: {fileID: 2800000, guid: a7a6a1c0ec20b5e40b63df5e30f6b70c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00514-texture
+    second: {fileID: 2800000, guid: d631b04dfbaa6f74a895406898ce6cde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00515-texture
+    second: {fileID: 2800000, guid: bf59ddfa8b60471468c1c26c3378c400, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00516-texture
+    second: {fileID: 2800000, guid: e13baab20f9b8cb44a70eaa556ab57c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00517-texture
+    second: {fileID: 2800000, guid: 18913e370da4cff4caa25b1ac9e0800f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00518-texture
+    second: {fileID: 2800000, guid: 951c212fe6d89e74b95d9ec2c63f02fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00519-texture
+    second: {fileID: 2800000, guid: 6fb70ece878e31f4e915f05b04623384, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00520-texture
+    second: {fileID: 2800000, guid: d4d0adc7a28665e4581bbbe2a84317f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00521-texture
+    second: {fileID: 2800000, guid: 0035d2c218d2b3642a1c576981cc7b04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00522-texture
+    second: {fileID: 2800000, guid: afc06ee57cceeeb45a2c95e2d28fdf19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00523-texture
+    second: {fileID: 2800000, guid: 05f9589b8f2de904eb9f69639f1cdc45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00524-texture
+    second: {fileID: 2800000, guid: de8118ba1f3c62c42ae662e1d22cc632, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00525-texture
+    second: {fileID: 2800000, guid: 7827935d667bbad4baa846152a14dfbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00526-texture
+    second: {fileID: 2800000, guid: 0066222c5d05d4a4abbf133d3dfb954a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00527-texture
+    second: {fileID: 2800000, guid: 459e0a4860a34ac41bbef40ac634e8de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00528-texture
+    second: {fileID: 2800000, guid: 636ebbb587422bd40bdded371a12a0e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00529-texture
+    second: {fileID: 2800000, guid: 95aff4a7fd542ae42af20925efdd654c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00530-texture
+    second: {fileID: 2800000, guid: 6cc7b0d709a42b4418b9cdfd7c85a11f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00531-texture
+    second: {fileID: 2800000, guid: 115d17971ce4cd9439451be72f3e2554, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00532-texture
+    second: {fileID: 2800000, guid: d0aab571f8f87cd4f815cd88ed36c0cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00533-texture
+    second: {fileID: 2800000, guid: 64b9089fe4340d341ba0641a595ace06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00534-texture
+    second: {fileID: 2800000, guid: eb498ee8ee7449b4ca8629aad0db2ae2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00535-texture
+    second: {fileID: 2800000, guid: 22c201ab866567245bd3a713b5e7a9a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00536-texture
+    second: {fileID: 2800000, guid: 7f291f5d531c62641acdfbe579474c18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00537-texture
+    second: {fileID: 2800000, guid: 332364d71f8c07542becee78995a96ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00538-texture
+    second: {fileID: 2800000, guid: a04da73afc068d942be72bdb7d98551a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00539-texture
+    second: {fileID: 2800000, guid: 75d07e05dcc0f4443b8c3ef5f6e2d6ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00540-texture
+    second: {fileID: 2800000, guid: cc48817af91085445b6514b62d93eb5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00541-texture
+    second: {fileID: 2800000, guid: 87f3e0f854cc39047a11e29f953d81a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00542-texture
+    second: {fileID: 2800000, guid: 7af52dc89e052454bb98736415297f5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00543-texture
+    second: {fileID: 2800000, guid: b0aafb49700368b4abd0ee75c3706d82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00544-texture
+    second: {fileID: 2800000, guid: b458cbcf8643dc44691486ddc866e4f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00545-texture
+    second: {fileID: 2800000, guid: 4048dd0096b637842b2b5753eab92101, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00546-texture
+    second: {fileID: 2800000, guid: 6ac46b07f65834b40b32cc06c9c1a2d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00547-texture
+    second: {fileID: 2800000, guid: 7d56b6490efda79438ad330dd81eebee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00548-texture
+    second: {fileID: 2800000, guid: 1c355a3cb8eb48547bec93d0c11540f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00549-texture
+    second: {fileID: 2800000, guid: eb03b1cfdebe93f4bb2332339e7e270f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00550-texture
+    second: {fileID: 2800000, guid: aa53eb005defbf44c94c10d705338419, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00551-texture
+    second: {fileID: 2800000, guid: 6d1457902ff35bb4ca2725148fa8da35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00552-texture
+    second: {fileID: 2800000, guid: a6c011a6030cdd24d846ac9187dcfe9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00553-texture
+    second: {fileID: 2800000, guid: 8b902df82f110d24496e8425d9dbd57d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00554-texture
+    second: {fileID: 2800000, guid: e9ff30376826ed54c8bbf5fce5d1b790, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00555-texture
+    second: {fileID: 2800000, guid: 64b291d1cbef45642a4f4eb95741305d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00556-texture
+    second: {fileID: 2800000, guid: b1930e6c2337d1649821c76e3a78b25b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00557-texture
+    second: {fileID: 2800000, guid: 3a76aa60940e76d41a6934c82c9d3e3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00558-texture
+    second: {fileID: 2800000, guid: 7fb34370cc0de674aa4d45c85664f021, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00559-texture
+    second: {fileID: 2800000, guid: 0c907f30904f8b9469152d72acfe6cf4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00560-texture
+    second: {fileID: 2800000, guid: f4a84306087d6c7459ea1f98d78d81f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00561-texture
+    second: {fileID: 2800000, guid: a146f1b55680f694e99df3a2b17bcea9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00562-texture
+    second: {fileID: 2800000, guid: 217d6810c009d824cb9f8afe92ccac70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00563-texture
+    second: {fileID: 2800000, guid: a1b3981f7cdcce0468d8185152b53e6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00564-texture
+    second: {fileID: 2800000, guid: ddfb2c3142996be49a026ff53f51a500, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00565-texture
+    second: {fileID: 2800000, guid: c39265fd29d94ff449e30b8773085bd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00566-texture
+    second: {fileID: 2800000, guid: 3eaa3f63abe6f5c47ad9fe9df90b4f83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00567-texture
+    second: {fileID: 2800000, guid: ef1b97f3bdf2c9743b58de673abff3c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00568-texture
+    second: {fileID: 2800000, guid: d2149252bc0145a4bac1d360ededd7b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00569-texture
+    second: {fileID: 2800000, guid: 833575c4a2cf8194695b57dc723f2303, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00570-texture
+    second: {fileID: 2800000, guid: 6bec0b0980030734b813a83c42a4d45f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00571-texture
+    second: {fileID: 2800000, guid: 0c8576b56310c2d42b9c29dc68d4a38f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00572-texture
+    second: {fileID: 2800000, guid: 2c9e60a426a431f45a01997b74e17c04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00573-texture
+    second: {fileID: 2800000, guid: f695eb177aa5289409808ebd7d488ef3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00574-texture
+    second: {fileID: 2800000, guid: 9f4ae46eb4a99a940bbf466513fcf9d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00575-texture
+    second: {fileID: 2800000, guid: 5cd853729de7f774592c0b97de0bf1d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00576-texture
+    second: {fileID: 2800000, guid: e9b021c1ff788d04c845bbdbe47000ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00577-texture
+    second: {fileID: 2800000, guid: e67f00589fedd6d409b507b3f78fef92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00578-texture
+    second: {fileID: 2800000, guid: 439d5c8c4f873b045bf4eda06cc666fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00579-texture
+    second: {fileID: 2800000, guid: d65504c70a85444429ac41fb3accbf5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00580-texture
+    second: {fileID: 2800000, guid: bc04eb7edf1375642bb8545b8dc828ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00581-texture
+    second: {fileID: 2800000, guid: ba9d09eee8b19e643b5b84384307e912, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00582-texture
+    second: {fileID: 2800000, guid: 49c48f1cd77e8104d8d248b5a1f98539, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00583-texture
+    second: {fileID: 2800000, guid: 9763d68f779219e46aa7d3b0160a03ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00584-texture
+    second: {fileID: 2800000, guid: 94d38ad1dbee74649abf69939d027185, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00585-texture
+    second: {fileID: 2800000, guid: e3ee76116a7a42747a7a2fa6cc0c654a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00586-texture
+    second: {fileID: 2800000, guid: 849537e2721b1c449b844c227bcb16b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00587-texture
+    second: {fileID: 2800000, guid: 3b2f7496326b1c64ea88117fbce495f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00588-texture
+    second: {fileID: 2800000, guid: 016762d2db9150349b0c4a787b22c04a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00589-texture
+    second: {fileID: 2800000, guid: b9236037a9b37b241a85aa076a8b4f69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00590-texture
+    second: {fileID: 2800000, guid: 6d8a0d7c0daec674799611fe486e38dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00591-texture
+    second: {fileID: 2800000, guid: 095cd154b9668ba4783d4e2ef88aa2a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00592-texture
+    second: {fileID: 2800000, guid: 2de541657231dfe4483841dbb44a5d09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00593-texture
+    second: {fileID: 2800000, guid: b9ced214ffa745d43829150a89996baa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00594-texture
+    second: {fileID: 2800000, guid: 47b2c53d087356d41b0b72fe9522ce20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00595-texture
+    second: {fileID: 2800000, guid: 434faf56e93392f4383e5a3e55e444b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00596-texture
+    second: {fileID: 2800000, guid: 30f884565c522e1408b00dbaebac940d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00597-texture
+    second: {fileID: 2800000, guid: f3534b6d11fdd174a9043f30bc68f209, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00598-texture
+    second: {fileID: 2800000, guid: 1decaf77c43851e4892c49de798f8feb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00599-texture
+    second: {fileID: 2800000, guid: 52406e971a2f6424ca491a90f67ceb86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00600-texture
+    second: {fileID: 2800000, guid: f4746f8dd9fbb204783fb0e681c4cb51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00601-texture
+    second: {fileID: 2800000, guid: b38e61855b2d25c43a6e3e5bb3d7624f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00602-texture
+    second: {fileID: 2800000, guid: d1e8331056671224490ecb7bbbd09dd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00603-texture
+    second: {fileID: 2800000, guid: aca277695abdd8c46b3a0fc9d078c9f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00604-texture
+    second: {fileID: 2800000, guid: 211306faefc158041bfc3089df8b2e15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00605-texture
+    second: {fileID: 2800000, guid: b774acceae527724fbef6912fc239b19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00606-texture
+    second: {fileID: 2800000, guid: 77c5424826ab27a4b955cb617e3e4346, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00607-texture
+    second: {fileID: 2800000, guid: b0f9784a5fca73e4a830bdc60e24c428, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00608-texture
+    second: {fileID: 2800000, guid: f0f3c11e3320d1d47801ed70d00f4ce3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00609-texture
+    second: {fileID: 2800000, guid: a70e0c9bf8f65f34aab2b656af683594, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00610-texture
+    second: {fileID: 2800000, guid: 77acfa5054faa26419c02e94bde21156, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00611-texture
+    second: {fileID: 2800000, guid: 78b1c109be9b4444088bd352127f81ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00612-texture
+    second: {fileID: 2800000, guid: bd6cc9d367d5f0e4cacd9c4dca14a4dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00613-texture
+    second: {fileID: 2800000, guid: 9f2ba2ee22b197c46a79ba17218fd16a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00614-texture
+    second: {fileID: 2800000, guid: c14da0743ca6a004d908a4f2ea12badf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00615-texture
+    second: {fileID: 2800000, guid: 4d22686faf1346940aba3e238f131bc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00616-texture
+    second: {fileID: 2800000, guid: e9797d959ca7e59439ebdaf6debb1799, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00617-texture
+    second: {fileID: 2800000, guid: 875c262a42e62c547951cb2f9bc30779, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00618-texture
+    second: {fileID: 2800000, guid: 66e1e31890753b34ea52d31f2a041a8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00619-texture
+    second: {fileID: 2800000, guid: 123363f630539154991bc4f0278d9dc3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00620-texture
+    second: {fileID: 2800000, guid: c5e365e5ac6ded44c90d68a4aad5ab2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00621-texture
+    second: {fileID: 2800000, guid: 8c16fa29c20db8b489b27c8b1a16a091, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00622-texture
+    second: {fileID: 2800000, guid: 03383bd562064db418d3d435ddb9fd1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00623-texture
+    second: {fileID: 2800000, guid: 648c02506225f1a4dbbc90037a0b6b7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00624-texture
+    second: {fileID: 2800000, guid: 26fd66d14941aa040a738313213d5e80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00625-texture
+    second: {fileID: 2800000, guid: 12631ef746ab3414cbe6d51f2a5dd15f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00626-texture
+    second: {fileID: 2800000, guid: 9bc920416ba0c5c4182944d210f8b631, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00627-texture
+    second: {fileID: 2800000, guid: 5205f5a73b65fde47b45ee42b6ea8f0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00628-texture
+    second: {fileID: 2800000, guid: b39e21798a2634c459d84a0a3e8eee9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00629-texture
+    second: {fileID: 2800000, guid: 7647e01327ed0b647902162ae5524f90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00630-texture
+    second: {fileID: 2800000, guid: 7029996dadc45cb46bdafc979eeda05b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00631-texture
+    second: {fileID: 2800000, guid: bcddb1d911a526740869ede9bc314cc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00632-texture
+    second: {fileID: 2800000, guid: 02879d52f39a33a45862568e5bd2fc8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00633-texture
+    second: {fileID: 2800000, guid: f2a4c250c47443a43a1daf8783ddff24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00634-texture
+    second: {fileID: 2800000, guid: d2a0d0f5e940f3e45903fc1cfaa83970, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00635-texture
+    second: {fileID: 2800000, guid: b4d4855cdfe74104cbc1d0f9f8ee9d14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00636-texture
+    second: {fileID: 2800000, guid: ca04834b76777da4498e06ac82f01c0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00637-texture
+    second: {fileID: 2800000, guid: 60cf891c55a983845a8b7522fbc49c20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00638-texture
+    second: {fileID: 2800000, guid: b6cad28b759c3744fa3b29aefaddea20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00639-texture
+    second: {fileID: 2800000, guid: b9f149af2b18fd044afe83ecc1b2024e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00640-texture
+    second: {fileID: 2800000, guid: 39c2504ae6fbbfc43a4781f876ddb9c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00641-texture
+    second: {fileID: 2800000, guid: be38f34165e33864eab05058ef472b8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00642-texture
+    second: {fileID: 2800000, guid: 7030dab28e5787b489ece3f909748704, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00643-texture
+    second: {fileID: 2800000, guid: dfa6e83f52c44d14683fc97cb74fe40d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00644-texture
+    second: {fileID: 2800000, guid: b7d090312d75a814ab3203aeeb40a88a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00645-texture
+    second: {fileID: 2800000, guid: 5edfc687b30f09f448c8c9d209055593, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00646-texture
+    second: {fileID: 2800000, guid: 49a7947421040e54c874b98894d4afe3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00647-texture
+    second: {fileID: 2800000, guid: 78ba1bf109280f94185c8cc08781f8c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00648-texture
+    second: {fileID: 2800000, guid: 1b18d55f477122240b2d4fd688bcd367, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00649-texture
+    second: {fileID: 2800000, guid: 1e940a1a3b692114d8594067a87a6375, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00651-texture
+    second: {fileID: 2800000, guid: a09a6af877bd93b499d232b4fdafe314, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00652-texture
+    second: {fileID: 2800000, guid: 90ed65dc717900341ae82f60b5cd7da0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00653-texture
+    second: {fileID: 2800000, guid: e8170c5549c17254a9b397f126be5e95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00654-texture
+    second: {fileID: 2800000, guid: 4ed2ab915772ce046a61b4da84be9814, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00655-texture
+    second: {fileID: 2800000, guid: 9467912ab22ecd843bda1182f8786e4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00656-texture
+    second: {fileID: 2800000, guid: ec37d53d650697d448d48e7ebf5cd85e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00657-texture
+    second: {fileID: 2800000, guid: 07bbbe93d6de6de4c829c47a84dbd972, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00658-texture
+    second: {fileID: 2800000, guid: a385b7b843d135c4b94b2dab14bc911c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00659-texture
+    second: {fileID: 2800000, guid: 72a124f67442cac4bb3c3dfa16238157, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00660-texture
+    second: {fileID: 2800000, guid: 4ec0cf24ff64c6d43a5f4da12425818c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00661-texture
+    second: {fileID: 2800000, guid: bee93936eaca85d4390f088114c266bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00662-texture
+    second: {fileID: 2800000, guid: f3842adb82e2de04094bdff0d1eacc9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00663-texture
+    second: {fileID: 2800000, guid: 15fa481d92dc4764fbf58474344970a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00664-texture
+    second: {fileID: 2800000, guid: 16873f243b9cb224d91575e8b34b167d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00665-texture
+    second: {fileID: 2800000, guid: 06bc8bc35edca6a40b2501e90c8767e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00666-texture
+    second: {fileID: 2800000, guid: cece0b7c57da5a140bd523dd06d2934e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00667-texture
+    second: {fileID: 2800000, guid: b8cbbfd1834376b4186137ac4c5c0129, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00668-texture
+    second: {fileID: 2800000, guid: 818b931bcb0e7a14d9f0c744a658ace6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00669-texture
+    second: {fileID: 2800000, guid: 850a8209c06f28e4d91a7b0ae8b25059, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00672-texture
+    second: {fileID: 2800000, guid: c563a15be4cacaa4ca15aac934605ca3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00673-texture
+    second: {fileID: 2800000, guid: 53a86f54dc9937440a93f7870bcb1931, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00674-texture
+    second: {fileID: 2800000, guid: df4c59e3da487e048bdb7e291725dc3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00675-texture
+    second: {fileID: 2800000, guid: 88ea400e982569c43801b7f979097601, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00676-texture
+    second: {fileID: 2800000, guid: 3684e2f6f408f904fb240e85e41b9fd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00677-texture
+    second: {fileID: 2800000, guid: 59adc46e1ccbe5f44a0d920405936393, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00678-texture
+    second: {fileID: 2800000, guid: 1700e4fb2c9c9fa4aa135768ef9b5305, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00679-texture
+    second: {fileID: 2800000, guid: f4f2f4b47af1d274d86ad471e74888be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00680-texture
+    second: {fileID: 2800000, guid: 58fceaed03c736b48974a20a9e0857e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00681-texture
+    second: {fileID: 2800000, guid: 49af94dbb53833f4c91218128ae52ad2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00682-texture
+    second: {fileID: 2800000, guid: bc0981d7efb55f442b68bebedce40d53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00683-texture
+    second: {fileID: 2800000, guid: ee84e3265a6d884408a926fc611e0d5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00684-texture
+    second: {fileID: 2800000, guid: 4bb2648afbd036442adbedabd1c4a48f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00685-texture
+    second: {fileID: 2800000, guid: fe84df349beb83f4ba528097af1366f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00686-texture
+    second: {fileID: 2800000, guid: 9bf047ebfb451ac4caea67799b6d9ee9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00687-texture
+    second: {fileID: 2800000, guid: 079542ac5c731cb45b9abcc155140537, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00688-texture
+    second: {fileID: 2800000, guid: 059d27f934031a946a723a95564b8d81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00689-texture
+    second: {fileID: 2800000, guid: 023776fb68a85b74fbe9649974aa81b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00690-texture
+    second: {fileID: 2800000, guid: 8b322dac700985d44b33cf9039223ec6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00691-texture
+    second: {fileID: 2800000, guid: a292808755b7d82458f839ebaa1d1669, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00692-texture
+    second: {fileID: 2800000, guid: 9c3b1583216b1f54fa1ec6a6fa051ae7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00693-texture
+    second: {fileID: 2800000, guid: bb8b5fdcd17ead94bbee8d41bbc5fbee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00694-texture
+    second: {fileID: 2800000, guid: fcf43d3b2c42f964fbf48bd77bc71183, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00695-texture
+    second: {fileID: 2800000, guid: 150dc143dee92ff42b3bc583a854b842, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00696-texture
+    second: {fileID: 2800000, guid: c34ab5c08c2f3984c92526c02ebd8c56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00699-texture
+    second: {fileID: 2800000, guid: 03f6f84208f87e149a0563097f233354, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00700-texture
+    second: {fileID: 2800000, guid: 781ddd73cd7ec8f4683dbc3bdf3b7c5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00701-texture
+    second: {fileID: 2800000, guid: 5ea15944ae1439449a5ce02e6122d0a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00702-texture
+    second: {fileID: 2800000, guid: 03c4aad476cb6a342bd01ee6a31f7dce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00703-texture
+    second: {fileID: 2800000, guid: b4149752dc0d7b5438b8ba8d8c2fd84c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00704-texture
+    second: {fileID: 2800000, guid: 57f35d7d54611804f990b806be741287, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00705-texture
+    second: {fileID: 2800000, guid: 804825b3e427b174fb09b34ac0cf55b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00706-texture
+    second: {fileID: 2800000, guid: 2a0b0b370bb03a44bbd1f742a0bde2f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00707-texture
+    second: {fileID: 2800000, guid: 48309e2a9cc0e164f8d8729548b92ff8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00708-texture
+    second: {fileID: 2800000, guid: aecf20ae30a6c4e46aa59f0cbf88db6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00709-texture
+    second: {fileID: 2800000, guid: 979cbd184c614e541a4ad9028014132b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00710-texture
+    second: {fileID: 2800000, guid: a67bedf8c1998364dad41abf85900852, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00711-texture
+    second: {fileID: 2800000, guid: 5ae98176380a9404da2191153f64ecfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00712-texture
+    second: {fileID: 2800000, guid: 5205ee953c4a5ab4185ddd3e959a72d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00713-texture
+    second: {fileID: 2800000, guid: 1827a3e680214f94896250d31061a002, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00714-texture
+    second: {fileID: 2800000, guid: dd707316da61bd942b58da8a35244c59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00717-texture
+    second: {fileID: 2800000, guid: e5d4f4a2e973b5e41bf96d7ec85d3746, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00718-texture
+    second: {fileID: 2800000, guid: 625e57e781ade1246b5893a64ce551ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00719-texture
+    second: {fileID: 2800000, guid: fded6d06f6d238045aeae0343680daed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00720-texture
+    second: {fileID: 2800000, guid: 7dc396e31a1a141439ac04db24899777, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00721-texture
+    second: {fileID: 2800000, guid: 4cba4d9222682df469df1c5e57d39337, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00722-texture
+    second: {fileID: 2800000, guid: e466db77377e1584d8d94a09cb8670fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00723-texture
+    second: {fileID: 2800000, guid: 6ddfdcdafe76a7548b7e175017b6ab89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00726-texture
+    second: {fileID: 2800000, guid: 8df0c413da8a2ba40890f584c4764ad4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00727-texture
+    second: {fileID: 2800000, guid: 398c717c6db339a449ecc431b449c5bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00728-texture
+    second: {fileID: 2800000, guid: 6ac22703ccd518c44854050510a0f890, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00729-texture
+    second: {fileID: 2800000, guid: 700ba2b965a199f40b9e38136a48e688, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00730-texture
+    second: {fileID: 2800000, guid: 74542039bac50d541971679144a3c053, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00731-texture
+    second: {fileID: 2800000, guid: c1a83b7f34f84e744bb21814d90e2cba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00732-texture
+    second: {fileID: 2800000, guid: f54d70dd051539b499f3e27efe9f91f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00733-texture
+    second: {fileID: 2800000, guid: 535774d98f43a964d9f3bc716b94c7af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00734-texture
+    second: {fileID: 2800000, guid: 7dd435442054cd543b66f9f117b5d670, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00735-texture
+    second: {fileID: 2800000, guid: 8a7fb4c17a57d234ba844383647b85a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00741-texture
+    second: {fileID: 2800000, guid: 3a6fa303eafae254b84cec21d95050c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00742-texture
+    second: {fileID: 2800000, guid: c1dc85d13d0117849b6f1aef8f214f35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00743-texture
+    second: {fileID: 2800000, guid: 36350c9f72c9bee42a78b0ac22a958b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00744-texture
+    second: {fileID: 2800000, guid: 62ddd91bfba819a47a3927a10823c0b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00745-texture
+    second: {fileID: 2800000, guid: 165e1af29337e1e4a8d0bcc2800d6584, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00746-texture
+    second: {fileID: 2800000, guid: faa06a0ef63f05e48bedaeb42ad3d52d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00747-texture
+    second: {fileID: 2800000, guid: 7013f5a96ee5f8d44a5b44625b3e8522, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00750-texture
+    second: {fileID: 2800000, guid: 4f659bf7ce4c4df48b7ccdaa2af28437, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00751-texture
+    second: {fileID: 2800000, guid: 6933df6cecf054848b246cde272ea7a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00754-texture
+    second: {fileID: 2800000, guid: 02c8c7a6e3c1c9c42bec4654aa3e5639, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00755-texture
+    second: {fileID: 2800000, guid: b25da27618177ac44802cfa0fa947805, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00756-texture
+    second: {fileID: 2800000, guid: 414ac483670109e4a95331cc04033263, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00757-texture
+    second: {fileID: 2800000, guid: 29f37831c087466489902bc37f396ba1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00758-texture
+    second: {fileID: 2800000, guid: d916db6cfa8747642b5d0edf0ce1bad3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00761-texture
+    second: {fileID: 2800000, guid: d8c6882aac2e4b342920481396f60ac9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00764-texture
+    second: {fileID: 2800000, guid: 7d2681e39bc341044ab7a3fa28609151, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00765-texture
+    second: {fileID: 2800000, guid: ab174342770712044b771070f514502a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00767-texture
+    second: {fileID: 2800000, guid: 22700f913d35363498f7dd35b3741372, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00768-texture
+    second: {fileID: 2800000, guid: b49fac4d5b978a04180aede2a91c031e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00769-texture
+    second: {fileID: 2800000, guid: d1ca8770fe68aa247acdd971652adf65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00772-texture
+    second: {fileID: 2800000, guid: 079b175226acda249b5f4d4dba5e12e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00773-texture
+    second: {fileID: 2800000, guid: 3e527695bb8b81d479fe7c615b804655, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00777-texture
+    second: {fileID: 2800000, guid: 2c7ee48a1a8db0142831829494530d8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00778-texture
+    second: {fileID: 2800000, guid: 69324e2e7f1ac414e819b064660bda86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00779-texture
+    second: {fileID: 2800000, guid: af9100a97700df24b9ff5e54b25a5b0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00783-texture
+    second: {fileID: 2800000, guid: 5678ba2dbee927549b1e357d5b8a5213, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00785-texture
+    second: {fileID: 2800000, guid: f0aef230e26927a41b831fd5bbd96421, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00786-texture
+    second: {fileID: 2800000, guid: 716031d402b33554f9f65be023adde89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00787-texture
+    second: {fileID: 2800000, guid: 1d0d6a58cf726154885c751f6b47efcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00790-texture
+    second: {fileID: 2800000, guid: 2961a267f8adb1a448d1f2b7b3b524ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00793-texture
+    second: {fileID: 2800000, guid: 721799beb6a3d204cb90bda2216893a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00798-texture
+    second: {fileID: 2800000, guid: a15d60f0d1b97ed4f9bb08a15bc25833, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00799-texture
+    second: {fileID: 2800000, guid: 52ee67ce49e23694b8edf499bfc5fee7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00800-texture
+    second: {fileID: 2800000, guid: 08a99a4d9c3eb6e4ca4ea5a45e82bc35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00802-texture
+    second: {fileID: 2800000, guid: 5d4d7ed5b9bfafa44afb48b0896f02bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00804-texture
+    second: {fileID: 2800000, guid: 5ee6707804961f549aaa0b1ba32a502c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00805-texture
+    second: {fileID: 2800000, guid: 3364880d4815677439be7a28da83dce9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00806-texture
+    second: {fileID: 2800000, guid: eb426d623502cb240a0e6e36c48d77b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00808-texture
+    second: {fileID: 2800000, guid: 11efeb7201252ed4f8c6f70d34ae058a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00815-texture
+    second: {fileID: 2800000, guid: b76b73574bf4ea546a154a58211d946e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00857-texture
+    second: {fileID: 2800000, guid: e9d9280fd64125a479b022e9ab18e32b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00858-texture
+    second: {fileID: 2800000, guid: c18b26ddbf72f2543b00511cb30901a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00859-texture
+    second: {fileID: 2800000, guid: 3bb93f31f4780c04b96899cdc9ba0851, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00860-texture
+    second: {fileID: 2800000, guid: fcb4398c1028a6145a89f3a392ed350b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00861-texture
+    second: {fileID: 2800000, guid: 4aea3e4369719014d9356297c0c5db91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00862-texture
+    second: {fileID: 2800000, guid: 9a67a7c1f5bc713408915ea0fe70d777, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00863-texture
+    second: {fileID: 2800000, guid: 5528b8c945aa75c4c8470fccdcd2d86f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00864-texture
+    second: {fileID: 2800000, guid: c264684f8422ef2488b8ec0629dd2ae7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00865-texture
+    second: {fileID: 2800000, guid: f8b8128f924d6534d97fbc08b8af0a93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00866-texture
+    second: {fileID: 2800000, guid: 8a6b2f2202943574192fe1dabfc656bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00867-texture
+    second: {fileID: 2800000, guid: 146eb6f14d392914080768bc55bb4ffb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00868-texture
+    second: {fileID: 2800000, guid: 136737cb8be4c314eb26b1bfb3969cda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00869-texture
+    second: {fileID: 2800000, guid: 059b1969797c94f4c89d181c87a626b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00870-texture
+    second: {fileID: 2800000, guid: 62ffe6eea183f2d4fbae94676a3e557d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00871-texture
+    second: {fileID: 2800000, guid: 6c14a19e614737a49ad634e332612a57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00872-texture
+    second: {fileID: 2800000, guid: 0f492bab276e5a14c977af02355f979b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00873-texture
+    second: {fileID: 2800000, guid: 265d4d679ebbdc54180f6abee32d6f3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00874-texture
+    second: {fileID: 2800000, guid: 1e80c275b0419f248aa9cf3a31bae5cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00875-texture
+    second: {fileID: 2800000, guid: cd89de8df100fa34e815d6cd696eb056, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00876-texture
+    second: {fileID: 2800000, guid: aaf151bdffbf12e4a9e448c4d6533947, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00877-texture
+    second: {fileID: 2800000, guid: 7e3ef425048f8344c90ce55a124230aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00878-texture
+    second: {fileID: 2800000, guid: a31b7845f912f1248afc92391cccf0c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00879-texture
+    second: {fileID: 2800000, guid: 30f36d7a482c4334a85e7409a7f10e12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00880-texture
+    second: {fileID: 2800000, guid: 5d13e48eb91379a4586a68ca519ba378, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00881-texture
+    second: {fileID: 2800000, guid: db186277ca1c25143b0a36cda3c14908, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00882-texture
+    second: {fileID: 2800000, guid: 6b22f940323dab641acffbc078daed0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00883-texture
+    second: {fileID: 2800000, guid: 5dd78607486c1794ba82913d769f4e47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00884-texture
+    second: {fileID: 2800000, guid: b1eb97873a4d37848b84afd84dca8f0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00885-texture
+    second: {fileID: 2800000, guid: 15ac467835a2e3349a6b1fd429a87d6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00886-texture
+    second: {fileID: 2800000, guid: e70c4b353eeb9ff4496cad239386a6e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00887-texture
+    second: {fileID: 2800000, guid: 8278ce0f9b9c7ca44bceac15166c4390, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00888-texture
+    second: {fileID: 2800000, guid: 22414ba0605faef4fa10c8ecf4bddb1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00889-texture
+    second: {fileID: 2800000, guid: 49c1128a50a9f6747b27eb545392f5ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00890-texture
+    second: {fileID: 2800000, guid: ddc01cb837b19724591971e4a83d9587, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00891-texture
+    second: {fileID: 2800000, guid: bbe7c33231a37ab4d9c750f83ab830bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00892-texture
+    second: {fileID: 2800000, guid: ecbeda24cda7fb34f8d125854dd666d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00893-texture
+    second: {fileID: 2800000, guid: ed61865dbe4034f4196ac9c7f91d770f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00894-texture
+    second: {fileID: 2800000, guid: 0eb5c8853647cf34cb5c7a6f5c3c2c82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00895-texture
+    second: {fileID: 2800000, guid: f653a2d178c11f74780fec30a396615b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00896-texture
+    second: {fileID: 2800000, guid: f9cf961ad2de1b34b84f78833c20bdda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00897-texture
+    second: {fileID: 2800000, guid: 010fe888fd927294ea7c2fdc89bf886b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00898-texture
+    second: {fileID: 2800000, guid: 710058f35ad20684ba2fc295b55deeb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00899-texture
+    second: {fileID: 2800000, guid: 748790fbdeb31ab4881f56ae9c4a8cfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00900-texture
+    second: {fileID: 2800000, guid: 8faaebed611a86645b85858d017034e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00901-texture
+    second: {fileID: 2800000, guid: a084afdbb0865b149890c3e1fca255a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00902-texture
+    second: {fileID: 2800000, guid: f43f786b4b6c0524c848d97c8da2ef66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00903-texture
+    second: {fileID: 2800000, guid: fcf3122193da1ab41aac19b2286fa73e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00904-texture
+    second: {fileID: 2800000, guid: 5c891f3321f2da643b0176f6f1d6b1a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00905-texture
+    second: {fileID: 2800000, guid: 30de347cdc6eab64e971687ad5bb5fed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00906-texture
+    second: {fileID: 2800000, guid: 98b4127d8128fc844961d817827f65c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00907-texture
+    second: {fileID: 2800000, guid: d96fcee6b93c4ec46b70ddfb7a5bcffd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00908-texture
+    second: {fileID: 2800000, guid: 333dd031a99f2e249b932dcd18a33c23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00909-texture
+    second: {fileID: 2800000, guid: 03af32e6d53186b4aa3c095ac980d264, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00910-texture
+    second: {fileID: 2800000, guid: 9351c6d4472af9e43bb994dc56de93ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00911-texture
+    second: {fileID: 2800000, guid: bcfbae0bfe290264997a59a74a058aa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00912-texture
+    second: {fileID: 2800000, guid: 7fdf6dbe4b856da4fbf54e8f60047791, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00913-texture
+    second: {fileID: 2800000, guid: 25e8069916f284743bd54e3c230bdd65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00914-texture
+    second: {fileID: 2800000, guid: bfd030946c8dbc54e930bd697089cfad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00915-texture
+    second: {fileID: 2800000, guid: 8c6ca9fdb8f572f44b6059c97ca129a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00916-texture
+    second: {fileID: 2800000, guid: 8df8a96edf827bb4589cae2382e57042, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00917-texture
+    second: {fileID: 2800000, guid: 7200bcd0fc6bd514a8d5607edf7f7ea7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00918-texture
+    second: {fileID: 2800000, guid: d928d3ef04e6d534b89baa4bd1846bb2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00919-texture
+    second: {fileID: 2800000, guid: 003d8ad5604dfeb459acb26080d60701, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00920-texture
+    second: {fileID: 2800000, guid: 4e0a2d341a0e000469a655160a42f717, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00921-texture
+    second: {fileID: 2800000, guid: 4b23fd8390fa9c8499021e467819684b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00922-texture
+    second: {fileID: 2800000, guid: 4f737ca50dd7438449ddf0200f715647, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00923-texture
+    second: {fileID: 2800000, guid: aa6aecfdc2db20244b4d41265cda6778, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00924-texture
+    second: {fileID: 2800000, guid: a578eb410178db14aaf1e3d08db4aa45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00925-texture
+    second: {fileID: 2800000, guid: 600900a748deb4746926b8d77f3fbfd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00926-texture
+    second: {fileID: 2800000, guid: c9cde0bd0aeaf854b9fd187ff2430cb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00927-texture
+    second: {fileID: 2800000, guid: a098e037bfebfaa47aa0b38cf1fb2571, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00928-texture
+    second: {fileID: 2800000, guid: 71f7286745d9dcf41b9695916adbb24c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00929-texture
+    second: {fileID: 2800000, guid: 6f2ac7ad497bcba46b72ec5e81ee2ab3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00930-texture
+    second: {fileID: 2800000, guid: 0a78084a47766944da27a5f9e886a2ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00931-texture
+    second: {fileID: 2800000, guid: d27b08bd3a333044a99b3c5f1696876b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00932-texture
+    second: {fileID: 2800000, guid: 252d9c38c72748848bfa3b9b0d625d72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00933-texture
+    second: {fileID: 2800000, guid: 078d4485ff327744ca15581ed42b4fb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00934-texture
+    second: {fileID: 2800000, guid: d1f0e02593c50bb4cb7004eb5b7f77d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00937-texture
+    second: {fileID: 2800000, guid: 7c5ff90a14e5a16459d7086775c0fe7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bigmonufinal-00938-texture
+    second: {fileID: 2800000, guid: 2b96a5411b3f10443a24553c409f9d93, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
