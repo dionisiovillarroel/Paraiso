@@ -37,15 +37,14 @@ public class AgarradorDiario : MonoBehaviour
                 ayudaAgarrar.SetActive(true);
                 if (Input.GetButton("Fire1"))
                 {
+                    puedeAgarrar = false;
                     diarioAgarrado = raycastHit.collider.GetComponent<Diario>();
                     diarioAgarrado.transform.SetParent(this.transform);
                     diarioAgarrado.transform.localPosition = posicionDeAgarreDiario.localPosition;
                     diarioAgarrado.transform.localRotation = posicionDeAgarreDiario.localRotation;
-                    ayudaDescartar.SetActive(true);
-                    ayudaAgarrar.SetActive(false);
-
                     diarioAgarrado.alActivar?.Invoke();
-                    puedeAgarrar = false;
+                    ayudaAgarrar.SetActive(false);
+                    ayudaDescartar.SetActive(true);
                 }
             }
             else

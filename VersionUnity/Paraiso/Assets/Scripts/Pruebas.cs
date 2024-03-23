@@ -19,5 +19,9 @@ public class Pruebas : MonoBehaviour
         {
             SceneManager.LoadScene("Monumental");
         }
+        if (Input.GetKeyDown(KeyCode.F4))
+        {
+            SceneManager.LoadScene("Final");
+        }
     }
 }
