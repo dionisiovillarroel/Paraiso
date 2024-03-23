@@ -10,6 +10,8 @@ public class MoverEntrePuntos : MonoBehaviour
 
     [Header("Propiedades")]
     [SerializeField]
+    private bool      loopea = false;
+    [SerializeField]
     private float     velocidad;
 
     private int       indiceActual = 0;
@@ -23,7 +25,7 @@ public class MoverEntrePuntos : MonoBehaviour
 
     private IEnumerator Mover()
     {
-        while (true)
+        while (indiceActual < posiciones.Length)
         {
             while (miTransform.position != posiciones[indiceActual].position)
             {
@@ -31,7 +33,7 @@ public class MoverEntrePuntos : MonoBehaviour
                 yield return null;
             }
             indiceActual++;
-            if (indiceActual >= posiciones.Length) indiceActual = 0;
+            if (indiceActual >= posiciones.Length && loopea) indiceActual = 0;
         }
     }
 }
