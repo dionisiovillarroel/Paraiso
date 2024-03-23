@@ -67,6 +67,11 @@
     <Compile Include="Assets\Scripts\CargaCubo.cs" />
     <Compile Include="Assets\Scripts\Diario.cs" />
     <Compile Include="Assets\Darkbringer Shader\DarkbringerEffect.cs" />
+    <Compile Include="Assets\Scripts\SalirManteniendoTecla.cs" />
+    <Compile Include="Assets\Scripts\FadeYTransicion.cs" />
+    <Compile Include="Assets\Scripts\BotonSalir.cs" />
+    <Compile Include="Assets\Scripts\TitilarTexto.cs" />
+    <Compile Include="Assets\Scripts\DemoraIntro.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\leeme.txt" />
@@ -74,6 +79,7 @@
     <None Include="Assets\Darkbringer Shader\DarkBringerRefined_1_2.shader" />
     <None Include="Assets\Darkbringer Shader\DarkBringerRefined.shader" />
     <None Include="Assets\Customizable Skybox\Stylized Sky\Shaders\Stylized Sky.shader" />
+    <None Include="Assets\Tipografias\editundo.txt" />
     <None Include="Assets\Sci-Fi Styled Modular Pack\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
