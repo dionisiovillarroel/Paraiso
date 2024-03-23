@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class MoverEntrePuntos : MonoBehaviour
 {
@@ -16,6 +17,9 @@ public class MoverEntrePuntos : MonoBehaviour
 
     private int       indiceActual = 0;
     private Transform miTransform;
+
+    [SerializeField]
+    private UnityEvent alTerminarMovimiento;
 
     private void Start()
     {
@@ -35,5 +39,6 @@ public class MoverEntrePuntos : MonoBehaviour
             indiceActual++;
             if (indiceActual >= posiciones.Length && loopea) indiceActual = 0;
         }
+        alTerminarMovimiento?.Invoke();
     }
 }

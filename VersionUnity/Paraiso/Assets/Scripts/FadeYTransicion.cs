@@ -13,7 +13,6 @@ public class FadeYTransicion : MonoBehaviour
     [SerializeField]
     private string         escenaACargar;
 
-    private float          tiempo = 0;
     private AsyncOperation carga;
 
     private void Start()

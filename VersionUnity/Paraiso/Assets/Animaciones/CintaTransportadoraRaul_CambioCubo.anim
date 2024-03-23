@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CintaTransportadora_CambioCubo
+  m_Name: CintaTransportadoraRaul_CambioCubo
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -185,7 +185,7 @@ AnimationClip:
   m_HasGenericRootTransform: 1
   m_HasMotionFloatCurves: 0
   m_Events:
-  - time: 2
+  - time: 1.4833333
     functionName: ReiniciarCarga
     data: 
     objectReferenceParameter: {fileID: 0}

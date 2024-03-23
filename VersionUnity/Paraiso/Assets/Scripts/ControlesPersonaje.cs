@@ -35,7 +35,8 @@ public class ControlesPersonaje : MonoBehaviour
 
         inputRotacion.y = Input.GetAxis("Mouse X");
         inputRotacion.x = -Input.GetAxis("Mouse Y");
-        miRigidbody.angularVelocity = Vector3.up * inputRotacion.y * velocidadDeRotacion;
+        //miRigidbody.angularVelocity = Vector3.up * inputRotacion.y * velocidadDeRotacion;
+        transform.Rotate(0, inputRotacion.y * velocidadDeRotacion, 0);
 
         transformDeCamara.localRotation *= Quaternion.Euler(Vector3.right * inputRotacion.x * velocidadDeRotacion);
     }

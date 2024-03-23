@@ -16,6 +16,17 @@ public class Cubo : MonoBehaviour
     [SerializeField]
     private float     escalaMaxima = 0.5f;
 
+    public float carga
+    {
+        get { return Mathf.Clamp01(cargaActual / cargaMaxima); }
+    }
+
+    public void ReiniciarCarga()
+    {
+        cargaActual = 0f;
+        cuboInterno.localScale = Vector3.zero;
+    }
+
     public void Cargar()
     {
         cargaActual += Time.deltaTime;

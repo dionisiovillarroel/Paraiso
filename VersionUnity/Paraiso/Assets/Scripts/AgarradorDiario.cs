@@ -16,6 +16,8 @@ public class AgarradorDiario : MonoBehaviour
     private LayerMask layersAfectadas;
     private RaycastHit raycastHit;
 
+    private bool puedeSoltar = true;
+
     private bool puedeAgarrar = true;
 
 
@@ -28,26 +30,35 @@ public class AgarradorDiario : MonoBehaviour
         }
     }
 
+    public void DesactivarTeclaSoltar()
+    {
+        ayudaDescartar.SetActive(false);
+        puedeSoltar = false;
+    }
+
     void Update()
     {
         if (puedeAgarrar)
         {
             if (Physics.Raycast(transform.position, transform.forward, out raycastHit, 2f, layersAfectadas.value))
             {
-                ayudaAgarrar.SetActive(true);
-                if (Input.GetButton("Fire1"))
+                if (diarioAgarrado == null)
                 {
-                    puedeAgarrar = false;
-                    diarioAgarrado = raycastHit.collider.GetComponent<Diario>();
-                    diarioAgarrado.transform.SetParent(this.transform);
-                    diarioAgarrado.transform.localPosition = posicionDeAgarreDiario.localPosition;
-                    diarioAgarrado.transform.localRotation = posicionDeAgarreDiario.localRotation;
-                    diarioAgarrado.alActivar?.Invoke();
-                    ayudaAgarrar.SetActive(false);
-                    ayudaDescartar.SetActive(true);
+                    ayudaAgarrar.SetActive(true);
+                    if (Input.GetButton("Fire1"))
+                    {
+                        puedeAgarrar = false;
+                        diarioAgarrado = raycastHit.collider.GetComponent<Diario>();
+                        diarioAgarrado.transform.SetParent(this.transform);
+                        diarioAgarrado.transform.localPosition = posicionDeAgarreDiario.localPosition;
+                        diarioAgarrado.transform.localRotation = posicionDeAgarreDiario.localRotation;
+                        diarioAgarrado.alActivar?.Invoke();
+                        ayudaAgarrar.SetActive(false);
+                        ayudaDescartar.SetActive(true);
+                    }
                 }
             }
-            else
+            else if (puedeSoltar)
             {
                 if (diarioAgarrado != null)
                 {
