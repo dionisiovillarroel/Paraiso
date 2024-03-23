@@ -1,0 +1,206 @@
+newmtl hullnobump
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd tigerhullburnt.jpg
+d 1
+newmtl hull
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd tigerhullburnt.jpg
+d 1
+newmtl interior
+Ns 50
+Ka 0 0 0
+Kd 1 0.988235 0.952941
+Ks 0 0 0
+d 1
+newmtl hull2
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd tigerhullburnt.jpg
+d 1
+newmtl primer
+Ns 50
+Ka 0 0 0
+Kd 0.729412 0.317647 0.25098
+Ks 0 0 0
+d 1
+newmtl baseyellow
+Ns 50
+Ka 0 0 0
+Kd 0.988235 0.988235 0.984314
+Ks 0 0 0
+map_Kd hull334.jpg
+d 1
+newmtl darkgray
+Ns 10
+Ka 0 0 0
+Kd 0.152941 0.2 0.239216
+Ks 0.521569 0.521569 0.521569
+d 1
+newmtl black
+Ns 50
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.101961 0.106667 0.092549
+d 1
+newmtl red
+Ns 50
+Ka 0 0 0
+Kd 0.711783 0.961882 0.62389
+Ks 0.199261 0.103641 0.0783776
+d 1
+newmtl copper
+Ns 50
+Ka 0 0 0
+Kd 0.711783 0.961882 0.62389
+Ks 0.199261 0.103641 0.0783776
+d 1
+newmtl aluminum
+Ns 10
+Ka 0 0 0
+Kd 0.666667 0.666667 0.666667
+Ks 1 1 1
+d 1
+newmtl rust
+Ns 50
+Ka 0 0 0
+Kd 0.711783 0.961882 0.62389
+Ks 0.199261 0.103641 0.0783776
+d 1
+newmtl white
+Ns 50
+Ka 0 0 0
+Kd 0.980392 0.980392 0.980392
+Ks 0 0 0
+d 1
+newmtl wheelin1
+Ns 50
+Ka 0 0 0
+Kd 0.988235 0.988235 0.988235
+Ks 0 0 0
+map_Kd wheels007.jpg
+d 1
+newmtl equipment
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd equip131.jpg
+d 1
+newmtl wheelout2
+Ns 50
+Ka 0 0 0
+Kd 0.996078 0.996078 0.996078
+Ks 0 0 0
+map_Kd wheels007.jpg
+d 1
+newmtl wheelout1
+Ns 50
+Ka 0 0 0
+Kd 0.996078 0.996078 0.996078
+Ks 0 0 0
+map_Kd wheels007.jpg
+d 1
+newmtl wheelout3
+Ns 50
+Ka 0 0 0
+Kd 0.988235 0.988235 0.988235
+Ks 0 0 0
+map_Kd wheels007.jpg
+d 1
+newmtl wheelin4
+Ns 50
+Ka 0 0 0
+Kd 0.988235 0.988235 0.988235
+Ks 0 0 0
+map_Kd wheels007.jpg
+d 1
+newmtl wheelin3
+Ns 50
+Ka 0 0 0
+Kd 0.988235 0.988235 0.988235
+Ks 0 0 0
+map_Kd wheels007.jpg
+d 1
+newmtl wheelin2
+Ns 50
+Ka 0 0 0
+Kd 0.988235 0.988235 0.988235
+Ks 0 0 0
+map_Kd wheels007.jpg
+d 1
+newmtl sprocket
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd sprocket131.jpg
+d 1
+newmtl idler
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd idler131.jpg
+d 1
+newmtl turretnobump
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd turret334.jpg
+d 1
+newmtl turret
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd turret334.jpg
+map_Bump  turretbump.jpg
+d 1
+newmtl turret2
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd turret334-2.jpg
+d 1
+newmtl wheelout4
+Ns 50
+Ka 0 0 0
+Kd 0.988235 0.988235 0.988235
+Ks 0 0 0
+map_Kd wheels007.jpg
+d 1
+newmtl track
+Ns 50
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd track.jpg
+d 1
+newmtl leather
+Ns 50
+Ka 0 0 0
+Kd 0.711783 0.961882 0.62389
+Ks 0.199261 0.103641 0.0783776
+d 1
+newmtl canvas
+Ns 50
+Ka 0 0 0
+Kd 0.711783 0.961882 0.62389
+Ks 0.199261 0.103641 0.0783776
+d 1
+newmtl ktgun
+Ns 50
+Ka 0 0 0
+Kd 0.711783 0.961882 0.62389
+Ks 0.199261 0.103641 0.0783776
+d 1
