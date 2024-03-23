@@ -54,14 +54,18 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Pruebas.cs" />
+    <Compile Include="Assets\Scripts\AgarradorDiario.cs" />
+    <Compile Include="Assets\Scripts\MoverEntrePuntos.cs" />
     <Compile Include="Assets\Scripts\ControlesPersonaje.cs" />
     <Compile Include="Assets\TypeOut\Scripts\TypeOutScript.cs" />
     <Compile Include="Assets\Scripts\SonidoLocalizado.cs" />
     <Compile Include="Assets\Darkbringer Shader\Preview\Rotate.cs" />
     <Compile Include="Assets\Darkbringer Shader\Preview\DarkbringerUIPreview.cs" />
+    <Compile Include="Assets\Free_old_yellow_concrete\ControllLight.cs" />
     <Compile Include="Assets\Scripts\Cubo.cs" />
     <Compile Include="Assets\Scripts\MovimientoConstante.cs" />
     <Compile Include="Assets\Scripts\CargaCubo.cs" />
+    <Compile Include="Assets\Scripts\Diario.cs" />
     <Compile Include="Assets\Darkbringer Shader\DarkbringerEffect.cs" />
   </ItemGroup>
   <ItemGroup>
