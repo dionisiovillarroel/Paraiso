@@ -10,46 +10,66 @@ public class AgarradorDiario : MonoBehaviour
     private GameObject ayudaDescartar;
     [SerializeField]
     private Transform  posicionDeAgarreDiario;
-    private GameObject diarioAgarrado;
+    private Diario     diarioAgarrado;
 
     [SerializeField]
     private LayerMask layersAfectadas;
     private RaycastHit raycastHit;
-    
+
+    private bool puedeAgarrar = true;
+
+
+    public void SoltarDiario(Diario diario)
+    {
+        if (diario == diarioAgarrado)
+        {
+            ayudaDescartar.SetActive(false);
+            diarioAgarrado = null;
+        }
+    }
 
     void Update()
     {
-        if (Physics.Raycast(transform.position, transform.forward, out raycastHit, 2f, layersAfectadas.value))
+        if (puedeAgarrar)
         {
-            ayudaAgarrar.SetActive(true);
-            if (Input.GetButton("Fire1"))
+            if (Physics.Raycast(transform.position, transform.forward, out raycastHit, 2f, layersAfectadas.value))
             {
-                diarioAgarrado = raycastHit.collider.gameObject;
-                raycastHit.collider.enabled = false;
-                diarioAgarrado.GetComponent<Animator>().enabled = false;
-                diarioAgarrado.GetComponent<AudioSource>().enabled = false;
-                diarioAgarrado.transform.SetParent(this.transform);
-                diarioAgarrado.transform.localPosition = posicionDeAgarreDiario.localPosition;
-                diarioAgarrado.transform.localRotation = posicionDeAgarreDiario.localRotation;
-                ayudaDescartar.SetActive(true);
-                ayudaAgarrar.SetActive(false);
-            }
-        }
-        else
-        {
-            if (diarioAgarrado != null)
-            {
-                if (Input.GetButtonDown("Fire1"))
+                ayudaAgarrar.SetActive(true);
+                if (Input.GetButton("Fire1"))
                 {
-                    Destroy(diarioAgarrado);
-                    ayudaDescartar.SetActive(false);
-                    diarioAgarrado = null;
+                    diarioAgarrado = raycastHit.collider.GetComponent<Diario>();
+                    diarioAgarrado.transform.SetParent(this.transform);
+                    diarioAgarrado.transform.localPosition = posicionDeAgarreDiario.localPosition;
+                    diarioAgarrado.transform.localRotation = posicionDeAgarreDiario.localRotation;
+                    ayudaDescartar.SetActive(true);
+                    ayudaAgarrar.SetActive(false);
+
+                    diarioAgarrado.alActivar?.Invoke();
+                    puedeAgarrar = false;
                 }
             }
             else
             {
-                ayudaAgarrar.SetActive(false);
+                if (diarioAgarrado != null)
+                {
+                    if (Input.GetButtonDown("Fire1"))
+                    {
+                        diarioAgarrado.alDesechar?.Invoke();
+                        Destroy(diarioAgarrado.gameObject);
+                        ayudaDescartar.SetActive(false);
+                        diarioAgarrado = null;
+                        puedeAgarrar = false;
+                    }
+                }
+                else
+                {
+                    ayudaAgarrar.SetActive(false);
+                }
             }
+        }
+        else if (Input.GetButtonUp("Fire1"))
+        {
+            puedeAgarrar = true;
         }
     }
 }

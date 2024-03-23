@@ -15,7 +15,7 @@ public class MoverEntrePuntos : MonoBehaviour
     private int       indiceActual = 0;
     private Transform miTransform;
 
-    private void Awake()
+    private void Start()
     {
         miTransform = transform;
         StartCoroutine(Mover());
@@ -28,6 +28,7 @@ public class MoverEntrePuntos : MonoBehaviour
             while (miTransform.position != posiciones[indiceActual].position)
             {
                 miTransform.position = Vector3.MoveTowards(miTransform.position, posiciones[indiceActual].position, velocidad * Time.deltaTime);
+                yield return null;
             }
             indiceActual++;
             if (indiceActual >= posiciones.Length) indiceActual = 0;
